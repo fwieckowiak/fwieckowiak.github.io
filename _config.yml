@@ -25,9 +25,9 @@ repository               : "fwieckowiak/fwieckowiak.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "François Wieckowiak"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CIFRE PhD Student working on Mathematical Expression Recognition"
   location         : "Lille"
   employer         : "INSA Lyon and Luminess"
   uri              : # URL

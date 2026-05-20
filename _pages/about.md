@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am François Wieckowiak, CIFRE PhD student, and I mostly work on mathematical expression recognition between my lab, the [LIRIS](https://liris.cnrs.fr/) in Lyon, and the company [Luminess](https://www.luminess.eu/) in Lens, France.
-On this website, you will find information about my research, publications, past and side projects, as well as anything that I find interesting. I may also use this website to show my creative works such as music, crochet, or general DIYs. Finally, I may fidn the time to write and post photos of my bikepacking adventures !
+On this website, you will find information about my research, publications, past and side projects, as well as anything that I find interesting. I may also use this website to show my creative works such as music, crochet, or general DIYs. Finally, I may find the time to write and post photos of my bikepacking adventures !
 
 
 Quick links
