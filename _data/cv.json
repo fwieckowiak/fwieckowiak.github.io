@@ -1,13 +1,9 @@
 {
   "basics": {
     "name": "François Wieckowiak",
-    "email": "francois.wieckowiak@gmail.com",
-    "phone": "+33 6 79 35 52 12",
-    "website": "",
-    "summary": "PhD candidate (CIFRE) in Artificial Intelligence specializing in mathematical expression recognition, computer vision, and document understanding, with applications in patent publication and accessibility.",
+    "summary": "PhD Student (CIFRE) in Artificial Intelligence specializing in mathematical expression recognition, computer vision, and document understanding, with applications in patent publication and accessibility.",
     "location": {
-      "address": "102 rue Jules Guesde, Apt. 93",
-      "postalCode": "59000",
+      "postalCode": "59800",
       "city": "Lille",
       "countryCode": "FR",
       "region": "Hauts-de-France"
@@ -15,7 +11,7 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "",
+        "username": "fwieckowiak",
         "url": ""
       },
       {
@@ -128,7 +124,7 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["Python", "C++", "MATLAB", "Java", "HTML/CSS", "PHP", "SQL", "LaTeX"]
+      "keywords": ["Python", "MATLAB", "Java", "HTML/CSS", "PHP", "SQL", "LaTeX"]
     },
     {
       "name": "Tools",
