@@ -13,7 +13,7 @@ On this website, you will find information about my research, publications, past
 Quick links
 ======
 If you came to my site you may be interested in the following pages:
-The PatentME-OCR and PatentME-Siamese datasets, which are (to the best of my knowledge !) the first datasets of mathematical expressions from patents in both image and MathML formats. They are available on this page: [link in progress](/patentme/).
+The PatentME-OCR and PatentME-Siamese datasets, which are (to the best of my knowledge !) the first datasets of mathematical expressions from patents in both image and MathML formats. They are available on this page: [PatentME](_portfolio/PatentME.md).
 
 The PiE-MER pipeline, which is a tool I developed to give a better evaluation of mathematical expression recognition systems. It is available on this page: [link in progress](/pie-mer/).
 
