@@ -12,7 +12,7 @@ In the process of patent publication, the original documents are scanned using O
 
 | ![Figure 1: Sample math expressions with varying quality and fonts](/images/PatentME/example_patentOCR.png) |
 |:--:|
-| *Figure 1: Sample math expressionsexpressions with varying quality and fonts* |
+| *Figure 1: Sample math expressions with varying quality and fonts found in patent documents* |
 
 
 ## PatentME-OCR Dataset
@@ -41,11 +41,29 @@ A new version of this dataset, that include more expressions from all the patent
 
 The Siamese dataset is composed of pairs of images of mathematical expressions. I ran the texteller (link) model on the PatentME-OCR dataset to generate and evaluated its accuracy. Then, I selected the pairs of images (raw image from the patent and the rendered prediction) where the model made an incorrect prediction (negative pairs) and the corresponding "correct" rendered image (from *PatentME-OCR_mml_cleaned_display_img*) paired with the patent image (positive pairs).
 
-Using them, I trained a model to guess, when given the raw image and the prediction image, wheter the predictions is an exact match or not. The data acquisition process and the siamese model are detailed in figure 2 and 3:
+Using them, I trained a model to guess, when given the raw image and the prediction image, wheter the predictions is an exact match or not. The data acquisition process and the siamese model are detailed in figure 2 and 3. You can find more about this model in our paper : PatentME : A Dataset and Reference-Free Post-OCR Verification Task for Printed Mathematical Expression Recognition, accepted at the ICDAR 2026 conference !
+
 | ![Figure 2: Data acquisition process for PatentME-Siamese dataset](/images/PatentME/good_snn-1.png) |
 |:--:|
 | *Figure 2: Data acquisition process for PatentME-Siamese dataset* |
 
 | ![Figure 3: Siamese neural network architecture](/images/PatentME/snngoodv2-1.png) |
 |:--:|
+| *Figure 3: Siamese neural network architecture* |
 
+The PatentME-Siamese dataset is also available on Zenodo for you to train on this post-OCR verification task.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+[**Download PatentME-Siamese Dataset on Zenodo**](https://zenodo.org/search?q=PatentME){: .btn .btn--primary .btn--large}
+
+
+## NEW : PatentME-1M Dataset
+
+After the initial ICDAR paper subbmission, i kept working on data extraction from the EPO website, and used this webpage [https://publication-bdds.apps.epo.org/raw-data/products/public/product/32](https://publication-bdds.apps.epo.org/raw-data/products/public/product/32) to extract more mathematical expressions from all the patent applications of the year 2025. This new version of the dataset, called PatentME-1M, contains  1,000,000 images of mathematical expressions extracted from patent documents, along with their corresponding MathML annotations. It contains the same kind of data as PatentME-OCR, which I will keep on this page for reference, but if you plan on training large vision models on mathematical expression recognition, I would recommend using the new PatentME-1M dataset which is much larger and more diverse. 
+
+Here is the link to the new dataset on Zenodo :
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+[**Download PatentME-1M Dataset on Zenodo**](https://zenodo.org/search?q=PatentME){: .btn .btn--primary .btn--large}
