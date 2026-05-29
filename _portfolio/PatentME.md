@@ -22,7 +22,7 @@ The PatentME-OCR dataset is composed of 40,955 images of mathematical expression
 
 The mathematical expressions are extracted from this EPO service : [https://data.epo.org/expert-services/](https://data.epo.org/expert-services/), using this Application Number request : [files/patent_numbers_query.txt](files/patent_numbers_query.txt)
 
-We would recommend future work to instead use this source :  [https://publication-bdds.apps.epo.org/raw-data/products/public/product/32](https://publication-bdds.apps.epo.org/raw-data/products/public/product/32)
+New : We would recommend future work to instead use this source :  [https://publication-bdds.apps.epo.org/raw-data/products/public/product/32](https://publication-bdds.apps.epo.org/raw-data/products/public/product/32)
 
 
 
