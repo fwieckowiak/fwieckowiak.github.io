@@ -16,6 +16,7 @@ In the process of patent publication, the original documents are scanned using O
 
 
 ## PatentME-OCR Dataset
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20446086.svg)](https://doi.org/10.5281/zenodo.20446086)
 
 
 The PatentME-OCR dataset is composed of 40,000 images of mathematical expressions extracted from patent documents (*PatentME-OCR_raw_img*), along with their corresponding MathML annotations (*PatentME-OCR_mml*). We also included a "cleaned" version of the MathML (*PatentME-OCR_mml_cleaned*) where we normalize whitespace, standardize special characters, and replace deprecated MathML tags such as `<fenced>` with their modern equivalents, and finally the rendering of the cleaned MathML in both display and inline modes (*PatentME-OCR_mml_cleaned_display_img* and *PatentME-OCR_mml_cleaned_inline_img*).
@@ -30,8 +31,7 @@ It will be available on Zenodo for you to evaluate and train your mathematical e
 
 <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
-[**Download link will be available soon!**](https://fwieckowiak.github.io/portfolio/PatentME/){: .btn .btn--primary .btn--large}
-
+[**Download on Zenodo**](https://doi.org/10.5281/zenodo.20446086){: .btn .btn--primary .btn--large}
 
 
 ## PatentME-Siamese Dataset
@@ -50,16 +50,17 @@ Using them, I trained a model to guess, when given the raw image and the predict
 
 The PatentME-Siamese dataset will also be available on Zenodo for you to train on this post-OCR verification task.
 
-[**Download link will be available soon!**](https://fwieckowiak.github.io/portfolio/PatentME/){: .btn .btn--primary .btn--large}
+[**Download on Zenodo**](https://doi.org/10.5281/zenodo.20446086){: .btn .btn--primary .btn--large}
 
 
 ## NEW : PatentME-600k Dataset
 
 After the initial ICDAR paper subbmission, i kept working on data extraction from the EPO website, and used this webpage [https://publication-bdds.apps.epo.org/raw-data/products/public/product/32](https://publication-bdds.apps.epo.org/raw-data/products/public/product/32) to extract more mathematical expressions from all the patent applications of the year 2025. This new version of the dataset, called PatentME-600k, contains  600,000 images of mathematical expressions extracted from around 60,000 patent documents, along with their corresponding MathML annotations. It contains the same kind of data as PatentME-OCR, which I will keep on this page for reference, but if you plan on training large vision models on mathematical expression recognition, I would recommend using the new PatentME-600k dataset which is much larger and more diverse. 
 
-Here is the link to the new dataset on Zenodo :
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20446086.svg)](https://doi.org/10.5281/zenodo.20446086)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[**Download on Zenodo**](https://doi.org/10.5281/zenodo.20446086){: .btn .btn--primary .btn--large}
 
-[**Download link will be available soon!**](https://fwieckowiak.github.io/portfolio/PatentME/){: .btn .btn--primary .btn--large}
+## Data Acquisition
 
+You can check our GitHub repo https://github.com/fwieckowiak/PatentME for more details on the data acquisition process.
