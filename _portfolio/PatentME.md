@@ -1,6 +1,6 @@
 ---
 title: "PatentME datasets"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Description of the PatentME datasets"
 collection: portfolio
 ---
 
@@ -10,7 +10,7 @@ Most of the mathematical expression datasets get their data from scientific publ
 
 In the process of patent publication, the original documents are scanned using Optical Character Recognition (OCR) systems as well as human annotators to extract the textual and mathematical content. OCR systems often struggle with accurately recognizing mathematical expressions due to their complex structure and diverse notations. Also, patent applications documents can be very heterogeneous in terms of formatting and quality, as you can see in Figure 1.
 
-| ![Figure 1: Sample math expressions with varying quality and fonts](/images/PatentME/example_patentOCR.png) |
+| ![Figure 1: Sample math expressions with varying quality and fonts](/images/PatentME/ex_ME_2.png) |
 |:--:|
 | *Figure 1: Sample math expressions with varying quality and fonts found in patent documents* |
 
