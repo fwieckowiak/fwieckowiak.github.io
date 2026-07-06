@@ -1,6 +1,8 @@
 ---
 title: "PatentME datasets"
-excerpt: "Description of the PatentME datasets"
+excerpt: >-
+	<a href="/images/PatentME/patentme600k.png"><img src="/images/PatentME/patentme600k.png" alt="PatentME-600k logo" style="width:50%; height:auto;"></a><br>
+	Description of the PatentME datasets
 collection: portfolio
 ---
 
