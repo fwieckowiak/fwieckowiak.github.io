@@ -11,7 +11,6 @@ Most of the mathematical expression datasets get their data from scientific publ
 In the process of patent publication, the original documents are scanned using Optical Character Recognition (OCR) systems as well as human annotators to extract the textual and mathematical content. OCR systems often struggle with accurately recognizing mathematical expressions due to their complex structure and diverse notations. Also, patent applications documents can be very heterogeneous in terms of formatting and quality, as you can see in Figure 1.
 
 | ![Figure 1: Sample math expressions with varying quality and fonts](/images/PatentME/ex_ME_2.png) |
-|:--:|
 | *Figure 1: Sample math expressions with varying quality and fonts found in patent documents* |
 
 
@@ -41,11 +40,9 @@ The Siamese dataset is composed of pairs of images of mathematical expressions. 
 Using them, I trained a model to guess, when given the raw image and the prediction image, wheter the predictions is an exact match or not. The data acquisition process and the siamese model are detailed in figure 2 and 3. You can find more about this model in our paper : PatentME : A Dataset and Reference-Free Post-OCR Verification Task for Printed Mathematical Expression Recognition, accepted at the ICDAR 2026 conference !
 
 | ![Figure 2: Data acquisition process for PatentME-Siamese dataset](/images/PatentME/good_snn-1.png) |
-|:--:|
 | *Figure 2: Data acquisition process for PatentME-Siamese dataset* |
 
 | ![Figure 3: Siamese neural network architecture](/images/PatentME/snngoodv2-1.png) |
-|:--:|
 | *Figure 3: Siamese neural network architecture* |
 
 The PatentME-Siamese dataset will also be available on Zenodo for you to train on this post-OCR verification task.
