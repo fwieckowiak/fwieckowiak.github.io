@@ -1,7 +1,7 @@
 ---
 title: "A Multimodal Evaluation Pipeline for Mathematical Expression Recognition: Comparisons of Datasets, Metrics, and Models"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/a-multimodal-evaluation-pipeline-for-mathematical-expression-recognition/
 excerpt: "A multimodal evaluation pipeline for printed mathematical expression recognition, comparing datasets, metrics, and models."
 date: 2025-09-01

@@ -1,7 +1,7 @@
 ---
 title: "PatentME: A Dataset and Reference-Free Post-OCR Verification Task for Printed Mathematical Expression Recognition"
 collection: publications
-category: manuscripts
+category:  conferences
 permalink: /publication/patentme-a-dataset-and-reference-free-post-ocr-verification-task-for-printed-mathematical-expression-recognition/
 excerpt: "PatentME introduces two datasets for mathematical expression recognition in patent documents, including a reference-free post-OCR verification task."
 date: 2026-01-01
