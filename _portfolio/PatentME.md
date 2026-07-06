@@ -1,6 +1,6 @@
 ---
 title: "PatentME datasets"
-excerpt: "Mathematical Expressions from Patent Documents <br/><img src='/images/PatentME/ex_ME_2.png' width='50%' height='auto'/>"
+excerpt: "Mathematical Expressions from Patent Documents <br/><a href=\"/portfolio/PatentME/\"><img src='/images/PatentME/ex_ME_2.png' width='30%' height='auto'/></a>"
 collection: portfolio
 ---
 
