@@ -23,4 +23,4 @@ The PatentME-OCR and PatentME-Siamese datasets, which are (to the best of my kno
 <a href="/portfolio/PatentME" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">PatentME Datasets</a>
 
 
-Check out some pictures of my bikepacking trips here ! <a href="fwieckowiak.github.io/personal/" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">🚲 Bikepacking 🚲</a>
+Check out some pictures of my bikepacking trips here ! <a href="https://fwieckowiak.github.io/personal/" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">🚲 Bikepacking 🚲</a>
