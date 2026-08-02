@@ -4,7 +4,7 @@ collection: personal
 type: "Bikepacking"
 permalink: /personal/2014-bikepacking-trip-2
 venue: "Belgium and the north of France"
-excerpt: "<img src='/_portfolio/bergen/lh grand.jpg' width='60%' height='auto'/>"
+excerpt: "<img src='/personal/bergen/lh grand.jpg' width='60%' height='auto'/>"
 date: May 2026
 ---
 # 
