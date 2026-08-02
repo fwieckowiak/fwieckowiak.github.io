@@ -4,8 +4,7 @@ collection: personal
 type: "Bikepacking"
 permalink: /personal/2014-bikepacking-trip-1
 venue: "Bergen Op Zoom, Netherlands"
-
-
+date: 
 ---
 # My First Bikepacking Trip : Lille - Bergen Op Zoom
 

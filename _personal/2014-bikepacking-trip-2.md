@@ -4,6 +4,7 @@ collection: personal
 type: "Bikepacking"
 permalink: /personal/2014-bikepacking-trip-2
 venue: "Belgium and the north of France"
+date: 
 ---
 # Some of my trips around Belgium and the north of France
 
