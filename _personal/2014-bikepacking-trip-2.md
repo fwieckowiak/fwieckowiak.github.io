@@ -3,7 +3,6 @@ title: "North of France and Belgium"
 collection: personal
 type: "Bikepacking"
 permalink: /personal/2014-bikepacking-trip-2
-date: " "
 venue: "Belgium and the north of France"
 ---
 # Some of my trips around Belgium and the north of France
