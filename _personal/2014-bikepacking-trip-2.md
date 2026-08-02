@@ -4,14 +4,16 @@ collection: personal
 type: "Bikepacking"
 permalink: /personal/2014-bikepacking-trip-2
 venue: "Belgium and the north of France"
+excerpt: "<img src='/_portfolio/bergen/lh grand.jpg' width='60%' height='auto'/>"
 date: May 2026
 ---
+# 
 # Some of my trips around Belgium and the north of France
 
 
 ## First proper bivouac !
 
-On all my previous bike trips, I always stayed in a tent, either through [CampSpace](campspace.com), which is an awesome way to meet people and camp without spending too much, or at local campsites.
+On all my previous bike trips, I always stayed in a tent, either through [CampSpace](https://campspace.com), which is an awesome way to meet people and camp without spending too much, or at local campsites.
 
 This time, I decided to try my very first bivouac in the Saint-Amand Forest! The weather was fairly cool, but still pleasant. I rode 60 km to get there, spent the night in the forest, and then rode another 60 km back.
 
