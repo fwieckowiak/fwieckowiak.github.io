@@ -4,7 +4,7 @@ collection: personal
 type: "Bikepacking"
 permalink: /personal/2014-bikepacking-trip-1
 venue: "Bergen Op Zoom, Netherlands"
-excerpt: "<img src='bergen\bergen (2).jpg' width='60%' height='auto'/>"
+excerpt: "<img src='/personal/bergen/bergen (2).jpg' width='60%' height='auto'/>"
 date: August 2025
 ---
 # 
