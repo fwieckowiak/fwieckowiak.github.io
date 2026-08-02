@@ -13,7 +13,14 @@ On this website, you will find information about my research, publications, past
 Quick links
 ======
 If you came to my site you may be interested in the following pages:
-The PatentME-OCR and PatentME-Siamese datasets, which are (to the best of my knowledge !) the first datasets of mathematical expressions from patents in both image and MathML formats. They are available on this page: [PatentME](portfolio/PatentME).
 
-The PiE-MER pipeline, which is a tool I developed to give a better evaluation of mathematical expression recognition systems. It is available on this page: [PiE-MER](portfolio/PiE-MER).
 
+
+The PiE-MER pipeline, which is a tool I developed to give a better evaluation of mathematical expression recognition systems. It is available on this page:
+<a href="/portfolio/PiE-MER" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">PiE-MER</a>
+
+The PatentME-OCR and PatentME-Siamese datasets, which are (to the best of my knowledge !) the first datasets of mathematical expressions from patents in both image and MathML formats. They are available on this page:
+<a href="/portfolio/PatentME" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">PatentME Datasets</a>
+
+
+Check out some pictures of my bikepacking trips here ! <a href="fwieckowiak.github.io/personal/" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">🚲 Bikepacking 🚲</a>
