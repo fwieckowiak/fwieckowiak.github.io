@@ -17,10 +17,16 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
 
 <div align="center">
 
-| | |
-|:-:|:-:|
-| <img src="bergen\bergen (2).jpg" width="100%"> | <img src="bergen\bergen%20(5).jpg" width="100%"> |
-| <img src="bergen\bergen%20(18).jpg" width="100%"> | <img src="bergen\bergen%20(19).jpg" width="100%"> |
+<table>
+  <tr>
+    <td><img src="bergen\bergen (2).jpg" width="100%"></td>
+    <td><img src="bergen\bergen%20(5).jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="bergen\bergen%20(18).jpg" width="100%"></td>
+    <td><img src="bergen\bergen%20(19).jpg" width="100%"></td>
+  </tr>
+</table>
 
 
 </div>
