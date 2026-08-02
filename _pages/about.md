@@ -6,21 +6,60 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am François Wieckowiak, CIFRE PhD student, and I mostly work on mathematical expression recognition between my lab, the [LIRIS](https://liris.cnrs.fr/) in Lyon, and the company [Luminess](https://www.luminess.eu/) in Lens, France.
+
+I am François Wieckowiak, CIFRE PhD student, and I mostly work on mathematical expression recognition between my lab, the [LIRIS](https://liris.cnrs.fr/) in Lyon, and the company [Luminess](https://www.luminess.eu/) in Lens, France. 
+
+
+My research focuses on improving OCR systems for mathematical expression recognition in patent documents. My contributions include new datasets, evaluation methods, and post-OCR verification approaches.
+
 On this website, you will find information about my research, publications, past and side projects, as well as anything that I find interesting. I may also use this website to show my creative works such as music, crochet, or general DIYs. Finally, I may find the time to write and post photos of my bikepacking adventures !
 
+Research
+========
 
-Quick links
-======
-If you came to my site you may be interested in the following pages:
+My main research projects and resources:
 
+**PiE-MER**  
+A multimodal evaluation pipeline for mathematical expression recognition systems.
 
-
-The PiE-MER pipeline, which is a tool I developed to give a better evaluation of mathematical expression recognition systems. It is available on this page:
-<a href="/portfolio/PiE-MER" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">PiE-MER</a>
-
-The PatentME-OCR and PatentME-Siamese datasets, which are (to the best of my knowledge !) the first datasets of mathematical expressions from patents in both image and MathML formats. They are available on this page:
-<a href="/portfolio/PatentME" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">PatentME Datasets</a>
+<a href="/portfolio/PiE-MER" class="quick-link">PiE-MER</a>
 
 
-Check out some pictures of my bikepacking trips here ! <a href="https://fwieckowiak.github.io/personal/" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#2c7be5; color:#fff; text-decoration:none; border-radius:4px;">🚲 Bikepacking 🚲</a>
+**PatentME**  
+Large-scale datasets of mathematical expressions extracted from patent documents, available in image and MathML formats.
+
+<a href="/portfolio/PatentME" class="quick-link">PatentME Datasets</a>
+
+
+**Curriculum Vitae**  
+A summary of my academic background, research experience, and publications.
+
+<a href="https://fwieckowiak.github.io/cv/" class="quick-link">CV</a>
+
+
+Personal
+========
+
+**Bikepacking adventures**  
+Photos and stories from my cycling trips !
+
+<a href="https://fwieckowiak.github.io/personal/" class="quick-link">🚲 Bikepacking</a>
+
+
+<style>
+.quick-link {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 8px 0 20px 0;
+  border: 1px solid #2c7be5;
+  border-radius: 4px;
+  color: #2c7be5;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.quick-link:hover {
+  background-color: #2c7be5;
+  color: white;
+}
+</style>
