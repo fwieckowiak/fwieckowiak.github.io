@@ -7,9 +7,8 @@ venue: "Bergen Op Zoom, Netherlands"
 excerpt: "<img src='/personal/bergen/bergen (2).jpg' width='60%' height='auto'/>"
 date: August 2025
 ---
-# 
+# ⸻
 
-# My First Bikepacking Trip : Lille - Bergen Op Zoom
 
 Here are a few photos from my very first bikepacking trip ! 
 
@@ -45,8 +44,7 @@ The trip covered about 230 km over three and a half days.
 
 <div align="center">
 
-
-| <img src="bergen\bergen%20(27).jpg" width="100%"> | <img src="bergen\bergen%20(32).jpg" width="100%"> |
+<img src="bergen\bergen%20(27).jpg" width="100%"> | <img src="bergen\bergen%20(32).jpg" width="100%">
 
 </div>
 

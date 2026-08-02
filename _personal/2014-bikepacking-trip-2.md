@@ -7,7 +7,8 @@ venue: "Belgium and the north of France"
 excerpt: "<img src='/personal/bergen/lh grand.jpg' width='60%' height='auto'/>"
 date: May 2026
 ---
-# 
+# ⸻
+
 # Some of my trips around Belgium and the north of France
 
 
