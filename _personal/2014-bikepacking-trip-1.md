@@ -46,31 +46,28 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
 document.addEventListener("DOMContentLoaded", () => {
     const img = document.getElementById("planImage");
 
-    img.addEventListener("click", (event) => {
-        event.stopPropagation();
+    img.addEventListener("click", () => {
 
         const overlay = document.createElement("div");
         overlay.style.cssText = `
-            position: fixed;
-            inset: 0;
-            background: rgba(0,0,0,0.9);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 9999;
-            overflow: hidden;
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.9);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:9999;
+            overflow:hidden;
         `;
 
         const clone = img.cloneNode(true);
-        clone.removeAttribute("id");
 
         clone.style.cssText = `
-            max-width: none;
-            max-height: none;
-            width: auto;
-            height: auto;
-            cursor: grab;
-            user-select: none;
+            max-width:none;
+            max-height:none;
+            width:auto;
+            height:auto;
+            cursor:grab;
         `;
 
         overlay.appendChild(clone);
@@ -78,33 +75,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const panzoom = Panzoom(clone, {
             maxScale: 10,
-            minScale: 0.2,
-            contain: false
+            minScale: 0.2
         });
 
-        // Enable mouse wheel zoom
-        overlay.addEventListener("wheel", (event) => {
-            event.preventDefault();
-            panzoom.zoomWithWheel(event);
-        }, { passive: false });
-
-        // Close only when clicking the background
-        setTimeout(() => {
-            overlay.addEventListener("click", (event) => {
-                if (event.target === overlay) {
-                    overlay.remove();
-                }
-            });
-        }, 100);
-
-        // Prevent image clicks from closing
-        clone.addEventListener("click", (event) => {
-            event.stopPropagation();
+        // Active le zoom molette sur l'image
+        clone.addEventListener("wheel", panzoom.zoomWithWheel, {
+            passive: false
         });
+
+        // Ferme en cliquant sur le fond
+        overlay.addEventListener("click", (e) => {
+            if (e.target === overlay) {
+                overlay.remove();
+            }
+        });
+
     });
 });
 </script>
-
 Our route started in Lille, crossed Belgium, and ended in bergen\Bergen op Zoom, a seaside town in the Netherlands.
 
 The trip covered about 230 km over three and a half days.
