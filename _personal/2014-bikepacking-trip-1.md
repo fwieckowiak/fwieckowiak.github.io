@@ -31,12 +31,61 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
 
 
 </div>
-
 <div align="center">
-
-<img src="bergen\plan.png" width="80%">
-
+  <img
+    id="planImage"
+    src="bergen/plan.png"
+    style="width:80%; cursor: zoom-in;"
+    alt="Map">
 </div>
+
+<!-- Panzoom -->
+<script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom/dist/panzoom.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const img = document.getElementById("planImage");
+
+    img.addEventListener("click", () => {
+        const overlay = document.createElement("div");
+        overlay.style.cssText = `
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,0.9);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            z-index:9999;
+            overflow:hidden;
+        `;
+
+        const clone = img.cloneNode();
+        clone.style.cssText = `
+            max-width:none;
+            max-height:none;
+            width:auto;
+            height:auto;
+            cursor:grab;
+        `;
+
+        overlay.appendChild(clone);
+        document.body.appendChild(overlay);
+
+        Panzoom(clone, {
+            maxScale: 10,
+            minScale: 0.2
+        });
+
+        overlay.addEventListener("wheel", (event) => {
+            event.preventDefault();
+        });
+
+        overlay.addEventListener("click", (e) => {
+            if (e.target === overlay) overlay.remove();
+        });
+    });
+});
+</script>
 
 Our route started in Lille, crossed Belgium, and ended in bergen\Bergen op Zoom, a seaside town in the Netherlands.
 
