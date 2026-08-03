@@ -71,14 +71,16 @@ document.addEventListener("DOMContentLoaded", () => {
         overlay.appendChild(clone);
         document.body.appendChild(overlay);
 
-        Panzoom(clone, {
+        const panzoom = Panzoom(clone, {
             maxScale: 10,
             minScale: 0.2
         });
 
+        // Zoom avec la molette
         overlay.addEventListener("wheel", (event) => {
             event.preventDefault();
-        });
+            panzoom.zoomWithWheel(event);
+        }, { passive: false });
 
         overlay.addEventListener("click", (e) => {
             if (e.target === overlay) overlay.remove();
