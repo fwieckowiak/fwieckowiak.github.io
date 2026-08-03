@@ -24,7 +24,7 @@ I did have one little scare when I spotted an animal moving in the distance, but
 
 <div align="center">
 
-<img src="bergen\bivouac carroussel.jpg" width="100%">
+<img class="zoomable" src="bergen\bivouac carroussel.jpg" width="100%">
 </div>
 
 
@@ -36,8 +36,8 @@ In the end, over two and a half days, I still covered a very long distance for m
 
 <div align="center">
 
-<img src="bergen\lille charle carroussel 0.jpg" width="100%">
-<img src="bergen\lille charle carroussel 1.jpg" width="100%">
+<img class="zoomable" src="bergen\lille charle carroussel 0.jpg" width="100%">
+<img class="zoomable" src="bergen\lille charle carroussel 1.jpg" width="100%">
 
 
 
@@ -45,7 +45,7 @@ In the end, over two and a half days, I still covered a very long distance for m
 
 <div align="center">
 
-<img src="bergen\Lille-Charle 3 gpx.png" width="100%">
+<img class="zoomable" src="bergen\Lille-Charle 3 gpx.png" width="100%">
 
 </div>
 
@@ -60,9 +60,9 @@ For the first time, I experienced that feeling of being completely sick of eatin
 
 <div align="center">
 
-<img src="bergen\lh carr.jpg" width="100%">
+<img class="zoomable" src="bergen\lh carr.jpg" width="100%">
 
-<img src="bergen\lh le monde.jpg" width="100%">
+<img class="zoomable" src="bergen\lh le monde.jpg" width="100%">
 
 
 
@@ -72,8 +72,8 @@ Crossing the finish line made me incredibly proud. Finishing such a long ride ga
 
 <div align="center">
 
-<img src="bergen\lh arrivee.png" width="100%">
-<img src="bergen\lh grand.jpg" width="100%">
+<img class="zoomable" src="bergen\lh arrivee.png" width="100%">
+<img class="zoomable" src="bergen\lh grand.jpg" width="100%">
 </div>
 
 
@@ -85,9 +85,9 @@ This trip through the Avesnois region in northern France came after my Lille–C
 This time, I started the ride injury-free and feeling much more relaxed. The weather was perfect, the campsites were great, and everything went smoothly... almost! Komoot sent me on a bit of an adventure through the forest, and I ended up taking an unexpected detour. I escaped with nothing more than a few scratches from some brambles, but I was very happy to finally reach the campspace !
 <div align="center">
 
-<img src="bergen\ave car 1.png" width="100%">
+<img class="zoomable" src="bergen\ave car 1.png" width="100%">
 
-<img src="bergen\ave gpx.jpg" width="100%">
+<img class="zoomable" src="bergen\ave gpx.jpg" width="100%">
 
 
 
@@ -97,7 +97,65 @@ Overall, it was a fantastic trip. The Avesnois is a wonderful part of northern F
 
 <div align="center">
 
-<img src="bergen\ave carr 2.jpg" width="100%">
+<img class="zoomable" src="bergen\ave carr 2.jpg" width="100%">
 </div>
 
 
+<script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom/dist/panzoom.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    document.querySelectorAll(".zoomable").forEach(function(img) {
+
+        img.style.cursor = "zoom-in";
+
+        img.onclick = function () {
+
+            const overlay = document.createElement("div");
+
+            overlay.style.cssText =
+                "position:fixed;" +
+                "inset:0;" +
+                "background:rgba(0,0,0,0.9);" +
+                "display:flex;" +
+                "align-items:center;" +
+                "justify-content:center;" +
+                "z-index:9999;" +
+                "overflow:hidden;";
+
+            const clone = img.cloneNode(true);
+            clone.removeAttribute("id");
+
+            clone.style.cssText =
+                "max-width:none;" +
+                "max-height:none;" +
+                "width:auto;" +
+                "height:auto;" +
+                "cursor:grab;";
+
+            overlay.appendChild(clone);
+            document.body.appendChild(overlay);
+
+            const panzoom = Panzoom(clone, {
+                maxScale: 10,
+                minScale: 0.2
+            });
+
+            clone.addEventListener("wheel", function(event) {
+                event.preventDefault();
+                panzoom.zoomWithWheel(event);
+            }, { passive: false });
+
+            overlay.addEventListener("click", function(event) {
+                if (event.target === overlay) {
+                    overlay.remove();
+                }
+            });
+
+        };
+
+    });
+
+});
+</script>
