@@ -29,8 +29,6 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
   </tr>
 </table>
 
-
-</div>
 <div align="center">
   <img
     id="planImage"
