@@ -33,62 +33,68 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
   <img
     id="planImage"
     src="bergen/plan.png"
-    style="width:80%; cursor: zoom-in;"
+    style="width:80%; cursor:zoom-in;"
     alt="Map">
 </div>
 
-<!-- Panzoom -->
 <script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom/dist/panzoom.min.js"></script>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", function () {
+
     const img = document.getElementById("planImage");
 
-    img.addEventListener("click", () => {
+    img.onclick = function () {
 
         const overlay = document.createElement("div");
-        overlay.style.cssText = `
-            position:fixed;
-            inset:0;
-            background:rgba(0,0,0,0.9);
-            display:flex;
-            align-items:center;
-            justify-content:center;
-            z-index:9999;
-            overflow:hidden;
-        `;
+
+        overlay.style.cssText =
+            "position:fixed;" +
+            "inset:0;" +
+            "background:rgba(0,0,0,0.9);" +
+            "display:flex;" +
+            "align-items:center;" +
+            "justify-content:center;" +
+            "z-index:9999;" +
+            "overflow:hidden;";
+
 
         const clone = img.cloneNode(true);
 
-        clone.style.cssText = `
-            max-width:none;
-            max-height:none;
-            width:auto;
-            height:auto;
-            cursor:grab;
-        `;
+        clone.removeAttribute("id");
+
+        clone.style.cssText =
+            "max-width:none;" +
+            "max-height:none;" +
+            "width:auto;" +
+            "height:auto;" +
+            "cursor:grab;";
+
 
         overlay.appendChild(clone);
         document.body.appendChild(overlay);
+
 
         const panzoom = Panzoom(clone, {
             maxScale: 10,
             minScale: 0.2
         });
 
-        // Active le zoom molette sur l'image
-        clone.addEventListener("wheel", panzoom.zoomWithWheel, {
-            passive: false
-        });
 
-        // Ferme en cliquant sur le fond
-        overlay.addEventListener("click", (e) => {
-            if (e.target === overlay) {
+        clone.addEventListener("wheel", function (event) {
+            event.preventDefault();
+            panzoom.zoomWithWheel(event);
+        }, { passive:false });
+
+
+        overlay.addEventListener("click", function (event) {
+            if (event.target === overlay) {
                 overlay.remove();
             }
         });
 
-    });
+    };
+
 });
 </script>
 Our route started in Lille, crossed Belgium, and ended in bergen\Bergen op Zoom, a seaside town in the Netherlands.
