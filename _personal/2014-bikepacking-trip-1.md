@@ -20,18 +20,18 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
 
 <table>
   <tr>
-    <td><img src="bergen\bergen (2).jpg" width="100%"></td>
-    <td><img src="bergen\bergen%20(5).jpg" width="100%"></td>
+    <td><img class="zoomable" src="bergen\bergen (2).jpg" width="100%"></td>
+    <td><img class="zoomable" src="bergen\bergen%20(5).jpg" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="bergen\bergen%20(18).jpg" width="100%"></td>
-    <td><img src="bergen\bergen%20(19).jpg" width="100%"></td>
+    <td><img class="zoomable" src="bergen\bergen%20(18).jpg" width="100%"></td>
+    <td><img class="zoomable" src="bergen\bergen%20(19).jpg" width="100%"></td>
   </tr>
 </table>
 
 <div align="center">
   <img
-    id="planImage"
+    class="zoomable"
     src="bergen/plan.png"
     style="width:80%; cursor:zoom-in;"
     alt="Map">
@@ -42,68 +42,67 @@ For this adventure, I used my vintage Raymond Poulidor road bike, my first road 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
-    const img = document.getElementById("planImage");
+    document.querySelectorAll(".zoomable").forEach(function(img) {
 
-    img.onclick = function () {
+        img.style.cursor = "zoom-in";
 
-        const overlay = document.createElement("div");
+        img.onclick = function () {
 
-        overlay.style.cssText =
-            "position:fixed;" +
-            "inset:0;" +
-            "background:rgba(0,0,0,0.9);" +
-            "display:flex;" +
-            "align-items:center;" +
-            "justify-content:center;" +
-            "z-index:9999;" +
-            "overflow:hidden;";
+            const overlay = document.createElement("div");
 
+            overlay.style.cssText =
+                "position:fixed;" +
+                "inset:0;" +
+                "background:rgba(0,0,0,0.9);" +
+                "display:flex;" +
+                "align-items:center;" +
+                "justify-content:center;" +
+                "z-index:9999;" +
+                "overflow:hidden;";
 
-        const clone = img.cloneNode(true);
+            const clone = img.cloneNode(true);
+            clone.removeAttribute("id");
 
-        clone.removeAttribute("id");
+            clone.style.cssText =
+                "max-width:none;" +
+                "max-height:none;" +
+                "width:auto;" +
+                "height:auto;" +
+                "cursor:grab;";
 
-        clone.style.cssText =
-            "max-width:none;" +
-            "max-height:none;" +
-            "width:auto;" +
-            "height:auto;" +
-            "cursor:grab;";
+            overlay.appendChild(clone);
+            document.body.appendChild(overlay);
 
+            const panzoom = Panzoom(clone, {
+                maxScale: 10,
+                minScale: 0.2
+            });
 
-        overlay.appendChild(clone);
-        document.body.appendChild(overlay);
+            clone.addEventListener("wheel", function(event) {
+                event.preventDefault();
+                panzoom.zoomWithWheel(event);
+            }, { passive: false });
 
+            overlay.addEventListener("click", function(event) {
+                if (event.target === overlay) {
+                    overlay.remove();
+                }
+            });
 
-        const panzoom = Panzoom(clone, {
-            maxScale: 10,
-            minScale: 0.2
-        });
+        };
 
-
-        clone.addEventListener("wheel", function (event) {
-            event.preventDefault();
-            panzoom.zoomWithWheel(event);
-        }, { passive:false });
-
-
-        overlay.addEventListener("click", function (event) {
-            if (event.target === overlay) {
-                overlay.remove();
-            }
-        });
-
-    };
+    });
 
 });
 </script>
+
 Our route started in Lille, crossed Belgium, and ended in bergen\Bergen op Zoom, a seaside town in the Netherlands.
 
 The trip covered about 230 km over three and a half days.
 
 <div align="center">
 
-<img src="bergen\bergen%20(27).jpg" width="100%"> | <img src="bergen\bergen%20(32).jpg" width="100%">
+<img class="zoomable" src="bergen\bergen%20(27).jpg" width="100%"> | <img class="zoomable" src="bergen\bergen%20(32).jpg" width="100%">
 
 </div>
 
@@ -113,8 +112,8 @@ It was an amazing adventure, and I am very grateful to François for introducing
 
 <table>
   <tr>
-    <td><img src="bergen\bergen%20(31).jpg" width="100%"></td>
-    <td><img src="bergen\bergen%20(35).jpg" width="100%"></td>
+    <td><img class="zoomable" src="bergen\bergen%20(31).jpg" width="100%"></td>
+    <td><img class="zoomable" src="bergen\bergen%20(35).jpg" width="100%"></td>
   </tr>
 </table>
 
