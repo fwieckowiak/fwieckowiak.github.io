@@ -1,0 +1,18 @@
+comments:
+  allowedFields:
+    - name
+    - message
+
+  branch: main
+
+  path: "_data/comments/{options.slug}"
+
+  filename: "entry{@timestamp}"
+
+  format: yaml
+
+  moderation: false
+
+  requiredFields:
+    - name
+    - message

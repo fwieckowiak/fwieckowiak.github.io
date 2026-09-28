@@ -17,3 +17,12 @@ Test page for my uk trip ! The trip should start on the 12th of october!
 <img class="zoomable" src="england/map_uk_trip.jpg" width="70%">
 
 </div>
+
+
+<hr>
+
+<h2>Comments</h2>
+
+
+<script src="https://widget.cmmnts.in/embed.js" async></script>
+<cmmnts-widget site-key="my-blog-wieckowiak" page-id="uk-trip-wieckowiak"></cmmnts-widget>
