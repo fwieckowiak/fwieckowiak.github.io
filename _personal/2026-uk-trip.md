@@ -31,9 +31,12 @@ this is a test editing the page from my phone !
 <h2>Comments</h2>
 
 
-<script src="https://widget.cmmnts.in/embed.js" async></script>
-<cmmnts-widget site-key="my-blog-wieckowiak" page-id="uk-trip-wieckowiak"></cmmnts-widget>
+<script src="https://widget.cmmnts.in/embed.js"></script>
 
+<cmmnts-widget
+  site-key="my-blog-wieckowiak"
+  page-id="uk-trip-wieckowiak">
+</cmmnts-widget>
 
 <br><br><br><br><br>
 <h2>End of Page</h2>
