@@ -6,6 +6,7 @@ permalink: /personal/2026-uk-trip
 venue: "South England"
 excerpt: "<img src='/personal/england/map_uk_trip.jpg' width='60%' height='auto'/>"
 date: May 2026
+share: false
 ---
 
 # ⸻
