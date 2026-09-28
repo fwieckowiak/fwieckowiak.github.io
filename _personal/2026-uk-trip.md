@@ -18,6 +18,12 @@ Test page for my uk trip ! The trip should start on the 12th of october!
 
 </div>
 
+this is a test editing the page from my phone !
+<div align="center">
+
+<img class="zoomable" src="england/photo_test.jpg" width="70%">
+
+</div>
 
 <hr>
 
