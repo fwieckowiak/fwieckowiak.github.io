@@ -40,6 +40,22 @@ Comments should appear here
 </div>
 
 <script src="https://widget.cmmnts.in/embed.js"></script>
-
+<script>
+(function () {
+  function fix() {
+    var w = document.querySelector('cmmnts-widget');
+    if (!w || !w.shadowRoot) { return setTimeout(fix, 200); }
+    if (w.shadowRoot.getElementById('cmmnts-fix')) { return; }
+    var s = document.createElement('style');
+    s.id = 'cmmnts-fix';
+    s.textContent =
+      ':host{height:auto !important;}' +
+      '.cmmnts-root{height:auto !important;max-height:none !important;}' +
+      '.cmmnts-list-area{overflow:visible !important;overscroll-behavior:auto !important;}';
+    w.shadowRoot.appendChild(s);
+  }
+  fix();
+})();
+</script>
 <br><br><br><br><br>
 <h2>End of Page</h2>
