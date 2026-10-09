@@ -29,11 +29,13 @@ this is a test editing the page from my phone !
 <hr>
 
 <h2>Comments</h2>
-Comments should appear bellow 
+Comments should appear bellow now
+
 <div id="comments-container">
   <cmmnts-widget
     site-key="my-blog-wieckowiak"
-    page-id="uk-trip-wieckowiak">
+    page-id="uk-trip-wieckowiak"
+    max-height="none">
   </cmmnts-widget>
 </div>
 
