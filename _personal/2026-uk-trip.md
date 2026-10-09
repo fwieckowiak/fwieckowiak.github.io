@@ -29,7 +29,7 @@ this is a test editing the page from my phone !
 <hr>
 
 <h2>Comments</h2>
-Comments should appear bellow now
+Comments should appear here
 
 <div id="comments-container">
   <cmmnts-widget
