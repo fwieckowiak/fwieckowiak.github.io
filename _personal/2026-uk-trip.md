@@ -10,6 +10,25 @@ share: false
 ---
 
 # ⸻
+# NEW: lundi 12 octobre 19:18
+Après 20 minutes de vélo entre la gare de Calais et le ferry, je passe les contrôles aux frontières rapidement. Il me reste ensuite 1h30 à attendre avant l’embarquement. je rencontre un couple anglais fort sympathique avec qui je passe toute la traversée. On discute beaucoup, notamment de leurs voyages à vélo entre leur péniche en Angleterre et les quatre coins de la France! 
+
+Arrivé à Douvres, je longe la côte pendant une quinzaine de kilomètres avant de tourner dans les terres. en haut des White Cliffs, le vent est très fort, de face et de côté. en plus je prends doucement en main mon vélo chargé à bloc, ce n'étais pas facile facile. sur le retour à la fin de mon voyage je devrai l'avoir dans le dos !
+
+Au moment de tourner dans les terres, malheur : une sacoche de mon porte-bagages arrière est restée ouverte et j’ai perdu une pochette ! Il y avait dedans ma casquette, mes couvre-chaussures et mes gants d’hiver. je repars dans l’autre sens pour remonter environ 5 km. Je finis par retrouver la fameuse sacoche au bord de la route, pile au moment où je commençais à perdre espoir. Ouf !
+
+Demi-tour, et cette fois, direction les petites routes de campagne anglaises. Pas mal de D+ moi qui suis habitué au plat pays mais très peu de voitures. 
+
+La météo se gâte progressivement. Après le vent, place à la pluie et au brouillard. J’allume tous mes phares et reste bien visible tout roule
+
+
+après 45km, le camping est tout proche et je devrais y arriver vers 17 h
+
+ là, malheur bis : le dieu du tubeless semble vouloir ma peau. Une entaille de 3 mm sur le pneu avant refuse de se reboucher avec le liquide préventif. obligé de mettre une mèche dans mes pneus tout neufs, qui ont à peine 50 km au compteur. Un peu frustrant, mais c’est la vie !
+
+Enfin arrivé au camping, qui est plutôt bien équipé, j'ai un grand champ pour moi tout seul. Je suis juste à côté des points d’eau et j’ai accès à une petite kitchenette abritée et des douches. J’installe rapido ma tente et mange ma purée PST épicée lyophilisé (20/20)
+
+Merci pour tous vos commentaires!! je mettrai des photos plus tard ici car j'ai très peu de réseau !
 
 # lundi 12 octobre 7:03
 
