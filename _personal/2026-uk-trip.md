@@ -11,7 +11,7 @@ share: false
 
 # ⸻
 
-# lundi 12 septembre 7:03
+# lundi 12 octobre 7:03
 
 Bonjour tout le monde ! j'écris ce message depuis le train pour Calais qui m'emmène au port pour prendre mon ferry ! j'ai pas mal hésité à écrire en anglais ou en français mais je pense continuer en français !
 
