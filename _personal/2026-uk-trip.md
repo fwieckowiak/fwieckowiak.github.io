@@ -28,7 +28,7 @@ ma trace est très majoritairement route de campagne ou chemin compact, sauf sur
 
 </div>
 
-mon vélo est bien prêt avec toutes mes affaires, je suis parti avec l'équivalent de environ 10 repas sec à réhydrater fait maison, et quasiment assez de barres et de snack pour tout le voyage (ce qui est certainement bien trop mais j'aurai moins à m'arrêter !)
+mon vélo est bien prêt avec toutes mes affaires, je suis parti avec l'équivalent de environ 10 repas secs à réhydrater fait maison, et quasiment assez de barres et de snack pour tout le voyage (ce qui est certainement bien trop mais j'aurai moins à m'arrêter !)
 
 je teste un peu trop de matériel à mon goût même si j'ai fais le maximum pour tout rouler au moins une fois avant de partir :
 j'ai installé un porte bagage et 2 sacoches à l'arrière de mon vélo pour pouvoir transporter mes vêtements chauds (dont je n'ai pas tellement besoin lors de mes sorties printanières) et 2 dry bag de fourche pour y transporter ma nourriture et système de sommeil (matelas, liner de sac)
