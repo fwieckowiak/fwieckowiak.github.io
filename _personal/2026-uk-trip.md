@@ -17,7 +17,7 @@ Bonjour tout le monde ! j'écris ce message depuis le train pour Calais qui m'em
 
 j'ai rendu mon manuscrit de thèse fin septembre et je pars maintenant pour mon voyage à vélo en Angleterre ! Le prétexte de ce voyage étant un concert à Portsmouth le 25 octobre du groupe de rock anglais "Sea Power" que j'affectionne énormément!
 
-je prends ce matin un train Lille - Calais puis un ferry pour Douvres qui devrait me faire arriver sur place vers midi heure locale, pour ensuite rouler environ 50 km jusqu'à mon premier camping !
+je prends ce matin un train Lille - Calais puis un ferry pour Douvres qui devrait me faire arriver sur place vers midi heure locale, pour ensuite rouler environ 50 km jusqu'à mon premier camping près de Ashford!
 
 
 ma trace est très majoritairement route de campagne ou chemin compact, sauf sur mes 2-3 derniers jours qui sont très (peu être trop ?) Gravel pour éviter de longer les villes côtières assez urbaines. je prendrai normalement un morceau de la "South Down Way" qui est un itinéraire VTT assez réputé !
@@ -39,7 +39,7 @@ j'ai peut être pris un peu trop de matériel je suis très très loin d'être u
 
 <div align="center">
 
-<img class="zoomable" src="england/IMG_1173.jpeg" width="30%">
+<img class="zoomable" src="england/IMG_1425.jpeg" width="60%">
 
 
 
