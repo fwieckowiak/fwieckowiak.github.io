@@ -10,12 +10,65 @@ share: false
 ---
 
 # ⸻
-# NEW: lundi 12 octobre 19:18
+# mardi 13 octobre 20:30
+
+Deuxième jour de voyage, et déjà l’une des plus grosses journées prévues: 90 km et 1 000 m de D+. Sauf que la trace s’avère bien plus gravel que prévu, surtout sur la première moitié. Les voies vélo annoncées en ligne sont en réalité des chemins très rocailleux, avec des pierres tranchantes comme des silex.
+
+  Ce qui devait arriver arriva : trois crevaisons successives sur ma roue avant. Les mèches s’enchaînent et tout mon liquide préventif se fait la malle donc : passage en chambre à air. C’est pas super drôle de démonter sa roue avant en plein milieu de la forêt, mais il faut bien repartir ! Je rajoute à ma liste de choses essentielles en voyage à vélo: de l’eau, à manger, de la lumière, et de l’air dans les pneus. Je fais un détour pour trouver un magasin de sport pour reprendre une chambre de secours. dur dur pour le moral
+
+
+Après seulement une petite quarantaine de kilomètres parcourus avant midi, je trouve une supérette pour manger un morceau. J’ai aussi la joie de profiter d’une petite drache éclair anglaise qui me trempe juste avant d’arriver, mais je suis bien équipé, donc tout roule !
+
+L’après-midi est plus sympa. La deuxième partie de l’itinéraire est un peu plus roulante, avec davantage de routes de campagne, et météo au top.
+
+Une route fermée “même aux cyclistes”  vient compliquer les choses. Elle me force à choisir entre tenter de traverser le parc d’un château / résidence de luxe ou faire un détour par une sorte de nationale limitée à 90 km/h. Je tente ma chance du côté du château, mais on me fait rapidement comprendre qu’il est absolument impossible de traverser le parc privé à vélo. Donc détour de 5 km, avec une portion le long d’une nationale peu agréable.
+
+dernier obstacle de la journée : 1 km de pente à 12 %. Je traîne mes 125 kilos cumulés pied à terre en poussant jusqu’en haut
+
+Les derniers kilomètres se déroulent sur une petite route forestière qui serpente entre de belles propriétés, avec leurs maisons d’architecte et leurs grands jardins
+
+Il me reste encore 15 km jusqu’au camping que j’avais repéré, mais je tombe sur un petit coin de parc nature entre des propriétés privées. Je trouve une super vue depuis le sommet de la colline avec un banc pour moi tout seul!
+
+J’y mange un morceau en profitant du paysage, puis j’attends le coucher du soleil pour installer la tente à l’écart des sentiers.
+
+Au final, 88 km et 1 200 m de D+ au compteur! Demain réveil tôt pour ne pas me faire surprendre par les promeneurs matinaux!
+
+pareillement j'enverrai les photos plus tard bizarrement on capte mal dans la forêt 
+
+# lundi 12 octobre 19:18
 Après 20 minutes de vélo entre la gare de Calais et le ferry, je passe les contrôles aux frontières rapidement. Il me reste ensuite 1h30 à attendre avant l’embarquement. je rencontre un couple anglais fort sympathique avec qui je passe toute la traversée. On discute beaucoup, notamment de leurs voyages à vélo entre leur péniche en Angleterre et les quatre coins de la France! 
 
 Arrivé à Douvres, je longe la côte pendant une quinzaine de kilomètres avant de tourner dans les terres. en haut des White Cliffs, le vent est très fort, de face et de côté. en plus je prends doucement en main mon vélo chargé à bloc, ce n'étais pas facile facile. sur le retour à la fin de mon voyage je devrai l'avoir dans le dos !
 
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1437.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1441.jpeg" width="60%">
+
+
+
+
+</div>
+
 Au moment de tourner dans les terres, malheur : une sacoche de mon porte-bagages arrière est restée ouverte et j’ai perdu une pochette ! Il y avait dedans ma casquette, mes couvre-chaussures et mes gants d’hiver. je repars dans l’autre sens pour remonter environ 5 km. Je finis par retrouver la fameuse sacoche au bord de la route, pile au moment où je commençais à perdre espoir. Ouf !
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1449.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1451.jpeg" width="60%">
+
+</div>
+
 
 Demi-tour, et cette fois, direction les petites routes de campagne anglaises. Pas mal de D+ moi qui suis habitué au plat pays mais très peu de voitures. 
 
