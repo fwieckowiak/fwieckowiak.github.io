@@ -63,6 +63,7 @@ Il reste encore quelques éléments à gérer pour la suite du voyage. Le soleil
 
 En parallèle, avec la précieuse aide de Véronique, on gère les derniers détails administratifs de la soutenance de thèse par mail interposé! J’ai aussi reçu un coup de fil de France travail qui valide mon allocation chômage! C’est peut etre un signe que je vais pouvoir continuer à voyager encore plus longtemps que prévu qui sait…
 
+update 20:11: je viens de marcher les 400 m qui me séparaient de la maison de la proprio dans le noir, le froid et la brume anglaise brrr c'est Halloween avant l'heure 
 
 # mardi 13 octobre 20:30
 
