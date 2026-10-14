@@ -11,9 +11,38 @@ share: false
 
 # ⸻
 
-# mercredi 14 octobre 18:30
+# mercredi 14 octobre 18:55
 
-je n'ai presque plus de batterie et ma batterie externe charge chez la propriétaire du terrain, je ferai une update ce soir plus tard peut être ! mais superbe journée et j'ai un gigantesque terrain pour moi tout seul ce soir ! :)
+Jour 3 : de belles routes de campagne et une pause au coin du feu
+
+Réveil très sympathique sur mon lieu de bivouac. La nuit s’est très bien passée. C’est sûr que lorsqu’on est tout seul dans la forêt, on entend plein de bruits bizarres et on se demande si c’est un sanglier, un chien qui aboie au loin ou simplement une voiture qui passe. Mais tout s’est bien passé !
+
+Je démonte la tente avec le lever du soleil, puis profite de mon petit déjeuner avec une très belle vue depuis le sommet de la colline.
+
+Encore quelques petits soucis techniques au réveil : le porte-bagages qui grince et qui nécessite un resserrage complet, la boue et l’humidité qui font grincer mes freins, et mon pneu avant qui est bizarrement à plat. Je soupçonne plutôt la valve de la chambre à air qu’une nouvelle crevaison. Après un petit check-up mécanique et des préparatifs rapides, c’est parti pour une journée de 74 km et 753 m de D+ prévus, beaucoup plus roulante que la veille !
+
+La première partie de la matinée traverse un petit marais un peu gras mais calme et sympathique. J’y croise plusieurs randonneurs avant de rejoindre une ville où je profite d’un Tesco pour reprendre fruits et barres
+
+La sortie de la ville est un peu moins agréable, avec pas mal de circulation, mais je retrouve rapidement les routes de campagne, en bon état et presque désertes
+
+Vers midi, le ciel commence à se couvrir et je tombe sur une superbe petite taverne qui m’emmène tout droit à Rivebois (celles et ceux qui ont la référence comprendront). J’y prends un café au coin du feu, discute avec la patronne et évite la pluie de justesse.
+
+erreur stratégique : je n’en profite pas pour recharger ma batterie externe, qui commence à fatiguer après la nuit de bivouac
+
+L’après-midi, du soleil, des routes très roulantes et peu de circulation. Quelques petites montées qui passent relativement bien tant qu’elles ne dépassent pas 5 à 6 %. Au-delà, pas le choix, il faut pousser le vélo mais avec le sourire et la satisfaction d’être en quasi totale autonomie grâce à tout le matériel que je transporte
+
+J’arrive finalement très tôt au camping : 16 h 30 ! Pour me récompenser, petit détour par M&S, ( un supermarché un peu fancy) pour y prendre un soda à la rhubarbe et des chips pour ce soir
+
+Le camping est un immense terrain avec une cuisine extérieure, des bancs, des douches solaires et des toilettes à compost. Le rêve, je me lave même les cheveux
+
+.Je rencontre la propriétaire, qui accepte très gentiment d’emporter ma batterie externe chez elle pour la recharger
+
+Je ne sais pas si c’est parce que je commence à trouver mon rythme ou si je prends un peu trop. La confiance, mais cette journée s’est vraiment très bien passée. De bonnes jambes, un parcours agréable et seulement une petite gêne au genou, qui disparaît au repos, a surveiller et sans trop forcer. Qui veut aller voyager loin ménage sa monture!
+
+Il reste encore quelques éléments à gérer pour la suite du voyage. Le soleil se lève de plus en plus tard et se couche de plus en plus tôt : je dois lever le camp pour le lever du soleil si une grosse journée m’attends pour éviter de rouler trop le soir.
+
+En parallèle, avec la précieuse aide de Véronique, on gère les derniers détails administratifs de la soutenance de thèse par mail interposé! J’ai aussi reçu un coup de fil de France travail qui valide mon allocation chômage! C’est peut etre un signe que je vais pouvoir continuer à voyager encore plus longtemps que prévu qui sait…
+
 
 # mardi 13 octobre 20:30
 
