@@ -13,8 +13,6 @@ share: false
 
 # mercredi 14 octobre 18:55
 
-Jour 3 : de belles routes de campagne et une pause au coin du feu
-
 Réveil très sympathique sur mon lieu de bivouac. La nuit s’est très bien passée. C’est sûr que lorsqu’on est tout seul dans la forêt, on entend plein de bruits bizarres et on se demande si c’est un sanglier, un chien qui aboie au loin ou simplement une voiture qui passe. Mais tout s’est bien passé !
 
 Je démonte la tente avec le lever du soleil, puis profite de mon petit déjeuner avec une très belle vue depuis le sommet de la colline.
@@ -29,11 +27,33 @@ Vers midi, le ciel commence à se couvrir et je tombe sur une superbe petite tav
 
 erreur stratégique : je n’en profite pas pour recharger ma batterie externe, qui commence à fatiguer après la nuit de bivouac
 
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1480.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1481.jpeg" width="60%">
+
+
+
+
+</div>
+
+
 L’après-midi, du soleil, des routes très roulantes et peu de circulation. Quelques petites montées qui passent relativement bien tant qu’elles ne dépassent pas 5 à 6 %. Au-delà, pas le choix, il faut pousser le vélo mais avec le sourire et la satisfaction d’être en quasi totale autonomie grâce à tout le matériel que je transporte
 
 J’arrive finalement très tôt au camping : 16 h 30 ! Pour me récompenser, petit détour par M&S, ( un supermarché un peu fancy) pour y prendre un soda à la rhubarbe et des chips pour ce soir
 
 Le camping est un immense terrain avec une cuisine extérieure, des bancs, des douches solaires et des toilettes à compost. Le rêve, je me lave même les cheveux
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1489.jpeg" width="60%">
+
+</div>
 
 .Je rencontre la propriétaire, qui accepte très gentiment d’emporter ma batterie externe chez elle pour la recharger
 
