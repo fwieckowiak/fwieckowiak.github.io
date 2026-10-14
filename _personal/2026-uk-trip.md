@@ -65,6 +65,38 @@ Il me reste encore 15 km jusqu’au camping que j’avais repéré, mais je tomb
 
 J’y mange un morceau en profitant du paysage, puis j’attends le coucher du soleil pour installer la tente à l’écart des sentiers.
 
+
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1462.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1463.jpeg" width="60%">
+
+
+
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1473.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/1EAEAA9C-F7F0-4E71-AB54-6C31C038C438.jpeg" width="60%">
+
+
+
+
+</div>
+
 Au final, 88 km et 1 200 m de D+ au compteur! Demain réveil tôt pour ne pas me faire surprendre par les promeneurs matinaux!
 
 pareillement j'enverrai les photos plus tard bizarrement on capte mal dans la forêt 
