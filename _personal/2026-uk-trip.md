@@ -10,6 +10,11 @@ share: false
 ---
 
 # ⸻
+
+# mercredi 14 octobre 18:30
+
+je n'ai presque plus de batterie et ma batterie externe charge chez la propriétaire du terrain, je ferai une update ce soir plus tard peut être ! mais superbe journée et j'ai un gigantesque terrain pour moi tout seul ce soir ! :)
+
 # mardi 13 octobre 20:30
 
 Deuxième jour de voyage, et déjà l’une des plus grosses journées prévues: 90 km et 1 000 m de D+. Sauf que la trace s’avère bien plus gravel que prévu, surtout sur la première moitié. Les voies vélo annoncées en ligne sont en réalité des chemins très rocailleux, avec des pierres tranchantes comme des silex.
