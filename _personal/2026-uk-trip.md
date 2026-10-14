@@ -113,6 +113,26 @@ après 45km, le camping est tout proche et je devrais y arriver vers 17 h
 
  là, malheur bis : le dieu du tubeless semble vouloir ma peau. Une entaille de 3 mm sur le pneu avant refuse de se reboucher avec le liquide préventif. obligé de mettre une mèche dans mes pneus tout neufs, qui ont à peine 50 km au compteur. Un peu frustrant, mais c’est la vie !
 
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1455.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1456.jpeg" width="60%">
+
+</div>
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1459.jpeg" width="60%">
+
+</div>
+
+
+
+
 Enfin arrivé au camping, qui est plutôt bien équipé, j'ai un grand champ pour moi tout seul. Je suis juste à côté des points d’eau et j’ai accès à une petite kitchenette abritée et des douches. J’installe rapido ma tente et mange ma purée PST épicée lyophilisé (20/20)
 
 Merci pour tous vos commentaires!! je mettrai des photos plus tard ici car j'ai très peu de réseau !
