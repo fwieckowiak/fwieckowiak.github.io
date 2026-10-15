@@ -40,9 +40,21 @@ Au programme : 74 km et 820 m de D+. Je quitte le camping un peu tard, vers 9 h 
 
 Vers 13 h, pause dans un petit restaurant au bord d’une route passante pour bien recharger ma batterie externe à fond.
 
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1500.jpeg" width="60%">
+
+</div>
+
 L’après-midi est un peu plus compliquée. détour pour éviter une nationale que je n’avais pas anticipée et nouvelle crevaison à la roue avant…. Sauf qu’au moment de démonter la chambre à air, impossible de trouver le trou. Je la regonfle à fond pour voir si elle tient.
 
+<img class="zoomable" src="england/IMG_1523.jpeg" width="60%">
+
+
 Je poursuis vers Winchester, qui est une ville très vallonnée. Dans une grosse côte au milieu des voitures, mon pneu se dégonfle à nouveau. Arrêt, démontage et inspection de la chambre à air. Cette fois, je finis par trouver le minuscule trou et je le répare avec une rustine. On croise les doigts
+
+<img class="zoomable" src="england/IMG_1527.jpeg" width="60%">
+
 
 Après avoir traversé Winchester, j’arrive à King’s Somborne, où je rachète quelques provisions. Jhesite entre trouver un coin pour bivouaquer ou parcourir les 8 km qui me séparent du camping ? Je décide finalement de tenter un nouveau bivouac,. je toque à la porte d’une maison pour remplir ma grosse poche à eau de 3 litres et mes bidons pour me laver et cuisiner ce soir et demain matin. Un monsieur très sympathique à la barbe blanche, aux cheveux longs et qui porte un pull de l’ESA m’ouvre et accepte volontiers de remplir mes gourdes.
 
