@@ -17,6 +17,23 @@ share: false
 
 Réveil au camping dans une ambiance bien humide. Ma tente mes chaussures et mes chaussettes sont trempées
 
+B464D426-FCF4-4F25-8096-86AC44D0D2A2.jpeg
+
+<div align="center">
+
+<img class="zoomable" src="england/B464D426-FCF4-4F25-8096-86AC44D0D2A2.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1494.jpeg" width="60%">
+
+
+
+
+</div>
+
  surprise : mon pneu avant est à nouveau dégonflé. Je change finalement de chambre à air pour essayer d’être tranquille pour la journée.
 
 Au programme : 74 km et 820 m de D+. Je quitte le camping un peu tard, vers 9 h 30, mais la matinée se déroule très bien. Encore une fois, de belles routes de campagne désertes et de jolies descentes
