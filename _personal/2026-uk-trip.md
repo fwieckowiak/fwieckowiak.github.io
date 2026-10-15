@@ -17,7 +17,6 @@ share: false
 
 Réveil au camping dans une ambiance bien humide. Ma tente mes chaussures et mes chaussettes sont trempées
 
-B464D426-FCF4-4F25-8096-86AC44D0D2A2.jpeg
 
 <div align="center">
 
