@@ -10,6 +10,33 @@ share: false
 ---
 
 # ⸻
+#jeudi 15 octobre 20:32
+
+
+
+
+Réveil au camping dans une ambiance bien humide. Ma tente mes chaussures et mes chaussettes sont trempées
+
+ surprise : mon pneu avant est à nouveau dégonflé. Je change finalement de chambre à air pour essayer d’être tranquille pour la journée.
+
+Au programme : 74 km et 820 m de D+. Je quitte le camping un peu tard, vers 9 h 30, mais la matinée se déroule très bien. Encore une fois, de belles routes de campagne désertes et de jolies descentes
+
+Vers 13 h, pause dans un petit restaurant au bord d’une route passante pour bien recharger ma batterie externe à fond.
+
+L’après-midi est un peu plus compliquée. détour pour éviter une nationale que je n’avais pas anticipée et nouvelle crevaison à la roue avant…. Sauf qu’au moment de démonter la chambre à air, impossible de trouver le trou. Je la regonfle à fond pour voir si elle tient.
+
+Je poursuis vers Winchester, qui est une ville très vallonnée. Dans une grosse côte au milieu des voitures, mon pneu se dégonfle à nouveau. Arrêt, démontage et inspection de la chambre à air. Cette fois, je finis par trouver le minuscule trou et je le répare avec une rustine. On croise les doigts
+
+Après avoir traversé Winchester, j’arrive à King’s Somborne, où je rachète quelques provisions. Jhesite entre trouver un coin pour bivouaquer ou parcourir les 8 km qui me séparent du camping ? Je décide finalement de tenter un nouveau bivouac,. je toque à la porte d’une maison pour remplir ma grosse poche à eau de 3 litres et mes bidons pour me laver et cuisiner ce soir et demain matin. Un monsieur très sympathique à la barbe blanche, aux cheveux longs et qui porte un pull de l’ESA m’ouvre et accepte volontiers de remplir mes gourdes.
+
+Sa compagne me propose ensuite quelque chose à manger. Je refuse dans un premier temps, mais elle insiste gentiment et me voilà attablé avec Mark et Jill ! Iels me racontent leurs années passées aux pays bas, où Mark travaillait à l’ESA sur les satellites météo qui détectent les éclairs, des géostationnaires qui capturent à une fréquence de 1 kHz si j’ai bien retenu les explications !
+
+Au moment de repartir pour trouver mon coin de bivouac, je consulte une dernière fois les prévisions météo. Beaucoup de pluie pendant la nuit. Le soleil commence également à se coucher, et l’idée de planter la tente sous une grosse averse devient moins séduisante.
+
+Je demande à mes sympathiques hôtes s’il serait possible de planter la tente dans leur jardin. Ils acceptent volontiers, mais vont même plus loin : ils me proposent un lit de camp dans leur grande véranda !
+
+Bonne nuit au sec et à demain !
+
 
 # mercredi 14 octobre 18:55
 
