@@ -10,7 +10,7 @@ share: false
 ---
 
 # ⸻
-The journal is available in English here. It hasn't been fully proofread, but the automatic translation should be pretty good!
+My journal is available in English. It hasn't been fully proofread, but the automatic translation should be pretty good!
 
 [**READ THE JOURNAL IN ENGLISH**](https://fwieckowiak-github-io.translate.goog/personal/2026-uk-trip?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
 
