@@ -342,11 +342,13 @@ j'ai peut être pris un peu trop de matériel je suis très très loin d'être u
 
 <hr>
 <div id="comments">
-# Commentaires
+<h1>Commentaires</h1>
 
 If you're viewing the English-translated page, the comments won't work. Click here to access the commentson the original page.
 
-[**Access the comments**](https://fwieckowiak.github.io/personal/2026-uk-trip#comments)
+<a href="https://fwieckowiak.github.io/personal/2026-uk-trip#comments" class="comments-button">
+  ACCESS THE COMMENTS
+</a>
 
 vous pouvez commenter ici, n'hésitez pas à préciser un pseudo ou votre nom pour que je vous reconnaisse !
 
