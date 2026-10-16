@@ -345,13 +345,12 @@ j'ai peut être pris un peu trop de matériel je suis très très loin d'être u
 <h1>Commentaires</h1>
 
 If you're viewing the English-translated page, the comments won't work. Click here to access the commentson the original page.
-
+<br>
 <a href="https://fwieckowiak.github.io/personal/2026-uk-trip#comments">
-  ACCESS THE COMMENTS
-</a>
-
+  ACCESS THE COMMENTS</a>
+<br><br>
 vous pouvez commenter ici, n'hésitez pas à préciser un pseudo ou votre nom pour que je vous reconnaisse !
-
+<br>
 <div id="comments-container">
   <cmmnts-widget
     site-key="my-blog-wieckowiak"
