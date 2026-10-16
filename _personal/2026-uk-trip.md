@@ -346,7 +346,7 @@ j'ai peut être pris un peu trop de matériel je suis très très loin d'être u
 
 If you're viewing the English-translated page, the comments won't work. Click here to access the commentson the original page.
 
-<a href="https://fwieckowiak.github.io/personal/2026-uk-trip#comments" class="comments-button">
+<a href="https://fwieckowiak.github.io/personal/2026-uk-trip#comments">
   ACCESS THE COMMENTS
 </a>
 
