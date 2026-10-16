@@ -10,6 +10,38 @@ share: false
 ---
 
 # ⸻
+
+# vendredi 16 octobre 13:33
+
+
+Réveil au sec après une nuit très satisfaisante, surtout quand j’entends la pluie tambouriner sur le toit de la véranda dans laquelle je suis très gentiment hébergé. Quel plaisir de retrouver au matin ma serviette, mes chaussures et mes chaussettes sèches !
+
+Mes hôtes redoublent de gentillesse et m’invitent à partager un petit déjeuner : pancakes au miel et jus de citron, café et orange. J’aurai vraiment passé un formidable moment chez Mark et Jill. Merci encore beaucoup si vous lisez ces lignes !
+
+Je reprends la route alors que le soleil commence à sécher les chemins, même s’il fait encore assez frais. Je finis même par mettre mes sur-chaussures de vélo, le vent est fort et froid.
+
+La matinée traverse de grands champs réservées aux exercices militaires. Sur une grande route droite, beaucoup de vent
+
+Petite pause imprévue dans un Aldi qui me rappelle la maison. J’y prends petit pique-nique, puis direction Stonehenge
+
+L’accès proche des pierres est interdit au public mais je fais la photo souvenir qui va bien
+
+Je finis par trouver un petit parc, au menu du pique-nique, de gauche à droite :
+(la photo arrive)
+
+* Ma flasque d'eau que j’utilise pour remplir mes bidons avec du concentré de jus de pomme.
+* Les chips de la veille.
+* pain pita complet.
+* Des tranches de poulet végan.
+* Un gin-tonic à la rose 0%.
+* sauce maison pour le sandwich composée de sauce barbecue, de ketchup et de brown sauce, piquée au restaurant il y a quelques jours.
+* En dessert, une aérobanane et une barre de céréales à l’avoine.
+
+30km pour finir la journée !
+
+
+
+
 # jeudi 15 octobre 20:32
 
 
