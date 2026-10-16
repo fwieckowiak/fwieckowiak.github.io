@@ -18,6 +18,13 @@ Réveil au sec après une nuit très satisfaisante, surtout quand j’entends la
 
 Mes hôtes redoublent de gentillesse et m’invitent à partager un petit déjeuner : pancakes au miel et jus de citron, café et orange. J’aurai vraiment passé un formidable moment chez Mark et Jill. Merci encore beaucoup si vous lisez ces lignes !
 
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1535.jpeg" width="60%">
+
+</div>
+
+
 Je reprends la route alors que le soleil commence à sécher les chemins, même s’il fait encore assez frais. Je finis même par mettre mes sur-chaussures de vélo, le vent est fort et froid.
 
 La matinée traverse de grands champs réservées aux exercices militaires. Sur une grande route droite, beaucoup de vent
@@ -25,9 +32,26 @@ La matinée traverse de grands champs réservées aux exercices militaires. Sur 
 Petite pause imprévue dans un Aldi qui me rappelle la maison. J’y prends petit pique-nique, puis direction Stonehenge
 
 L’accès proche des pierres est interdit au public mais je fais la photo souvenir qui va bien
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1543.jpeg" width="60%">
+
+</div>
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1546.jpeg" width="60%">
+
+</div>
+
+
 
 Je finis par trouver un petit parc, au menu du pique-nique, de gauche à droite :
-(la photo arrive)
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1550.jpeg" width="60%">
+
+</div>
+
 
 * Ma flasque d'eau que j’utilise pour remplir mes bidons avec du concentré de jus de pomme.
 * Les chips de la veille.
