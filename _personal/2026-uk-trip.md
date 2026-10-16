@@ -341,7 +341,7 @@ j'ai peut être pris un peu trop de matériel je suis très très loin d'être u
 </div>
 
 <hr>
-
+<div id="comments">
 <h2>Commentaires</h2>
 vous pouvez commenter ici, n'hésitez pas à préciser un pseudo ou votre nom pour que je vous reconnaisse !
 
@@ -371,5 +371,34 @@ vous pouvez commenter ici, n'hésitez pas à préciser un pseudo ou votre nom po
   fix();
 })();
 </script>
+
+</div>
+
+<style>
+  .comments-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    background: #2563eb;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  }
+
+  .comments-button:hover {
+    background: #1d4ed8;
+  }
+</style>
+
+<a href="#comments" class="comments-button">
+  💬 Commenter
+</a>
+
+
 <br><br><br><br><br>
 <h2>End of Page</h2>
