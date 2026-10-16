@@ -375,10 +375,9 @@ j'ai peut être pris un peu trop de matériel je suis très très loin d'être u
 <div id="comments">
 <h1>Commentaires</h1>
 
-If you're viewing the English-translated page, the comments won't work. Click here to access the commentson the original page.
-<br>
-<a href="https://fwieckowiak.github.io/personal/2026-uk-trip#comments">
-  ACCESS THE COMMENTS</a>
+If you're viewing the English-translated page, the comments won't work. Go back to the normal page (outside of the google traduction environment) to read and leave comments !
+
+
 <br><br>
 vous pouvez commenter ici, n'hésitez pas à préciser un pseudo ou votre nom pour que je vous reconnaisse !
 <br>
