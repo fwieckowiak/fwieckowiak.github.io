@@ -20,11 +20,29 @@ Le départ du spot de pique-nique est un peu plus difficile que prévu : je suis
 
 Je passe l’après-midi à traverser une immense zone militaire, avec un aérodrome et plus de 15 km de route en ligne droite à travers les champs. Quelques rares voitures passent à toute vitesse, et le dénivelé est un peu frustrant
 
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1554.jpeg" width="60%">
+
+</div>
+
 Pour mes matheuses et matheux, la courbe de dénivelé ressemble à du (x+\sin(x)), avant de se terminer par un (-\delta) Dirac. Pour les autres, c’est une sorte de montagnes russes qui ne fait que monter, avant de se terminer par une descente très raide. Jy passe mon temps à freiner un peu frustré de perdre tout le dénivelé positif accumulé
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1561.jpeg" width="60%">
+
+</div>
 
 Plus que 5 petits kilomètres pour rejoindre le camping, derrière une “inn” typique au bord d’une route nationale.
 
 c’est le premier camping du voyage où je retrouve d’autres personnes, et très bonne surprise : douches modernes, propres et l’eau est bien chaude.
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1566.jpeg" width="60%">
+
+</div>
 
 Demain arrivée prévue à Bristol dans la soirée. Très hâte d’y être !
 
