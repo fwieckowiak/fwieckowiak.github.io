@@ -14,6 +14,80 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 [**READ THE JOURNAL IN ENGLISH**](https://fwieckowiak-github-io.translate.goog/personal/2026-uk-trip?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
 
+
+# samedi 17 octobre 21:34
+
+Nuit très humide et très froide à 5 °C. Mais mon sac de couchage Cumulus a très bien tenu, donc très content. J’arrive par contre doucement aux limites de mon setup : la tente d’occasion qui commence à perdre son étanchéité et mon matelas avec son R de 2,2 sont les facteurs limitants pour les nuits les plus froides ou sous la pluie. Je pense chercher une bombe etancheifiante pour finir le voyage un peu plus sereinement surtout que de fortes pluies sont annoncées pour la suite
+
+Réveil lent et tranquille avec le soleil. Gros luxe du camping : un micro-ondes à disposition, donc pas besoin de sortir le réchaud pour préparer le café et le porridge Je pars un peu tard à 10h alors que je vise généralement 8:30-9h
+
+
+<div align="center">
+
+<img class="zoomable" src="england/4F3C2CB3-15F3-4FD4-AE1F-1A127DF0F790.jpeg" width="60%">
+
+</div>
+
+Aujourd’hui longue et plate journée : 85km pour 400 D+! Le début se déroule comme d’habitude sur de belles routes de campagne, avec peu de circulation et tout plat
+
+En fin de matinée, j’arrive le long de la rivière Avon, où m’attendent une vingtaine de kilomètres de chemin de halage. Malheureusement, le chemin enchaine gravier, cailloux, terre, flaque et revêtement irrégulier, le tout sur un itinéraire très fréquenté par les promeneurs, les autres vélos et les chiens. On se croise toujours avec le sourire avec un petit « Thank you », « Good morning », mais forcément, ça n’avance pas très vite.
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1572.jpeg" width="60%">
+
+</div>
+
+
+À force d’encaisser les cailloux, les épaules commencent à souffrir. Je finis par faire une longue pause à la mi journée, avec une petite sieste au bord de l’eau. Et là, c’est dur dur de repartir ! Je commence à pester contre ce chemin interminable qui me fait regretter les montagnes russes d’hier qui avaient pour elles d’être sur une route très lisse.
+
+<div align="center">
+
+<img class="zoomable" src="england/F231AA13-A057-4351-8645-2B9E7F3B5D04.jpeg" width="60%">
+
+</div>
+
+La délivrance arrive lorsque je rejoins la piste cyclable des Two Tunnels, qui m’emmène vers Bristol. Je traverse le long tunnel d’un mile, qui accueille chaque année une course d’ultra-running (voir la vidéo reportage ici : [https://youtu.be/E0Qt3RxzP0s?is=hzrt1WAqdDmXlomh]).
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1586.jpeg" width="60%">
+
+</div>
+
+Ça monte un peu, mais je m’envole : je connais cette route que j’ai fait cet été avec un vélo de location et Bristol est au bout du chemin.
+
+J’arrive en ville vers 18 h après un dernier ravitaillement et pause sur le parking d’un Lidl. Petite photo finish au bord du canal et à l’université 
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1596.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1599.jpeg" width="60%">
+
+</div>
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1636.jpeg" width="60%">
+
+</div>
+
+
+plus qu’une dernière côte pour rejoindre l’appartement de Shrestha , qui va m’héberger pour les deux prochains jours et dont c’est l’anniversaire le 20 octobre !
+
+Au programme ce soir : pizza
+
+<div align="center">
+
+<img class="zoomable" src="england/IMG_1650.jpeg" width="60%">
+
+</div>
+
 # vendredi 16 octobre 19:14
 
 Le départ du spot de pique-nique est un peu plus difficile que prévu : je suis vraiment bien installé au soleil, mais il faut bien finir la journée et rejoindre le camping.
