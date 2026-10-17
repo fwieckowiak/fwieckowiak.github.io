@@ -47,7 +47,7 @@ En fin de matinée, j’arrive le long de la rivière Avon, où m’attendent un
 
 </div>
 
-La délivrance arrive lorsque je rejoins la piste cyclable des Two Tunnels, qui m’emmène vers Bristol. Je traverse le long tunnel d’un mile, qui accueille chaque année une course d’ultra-running (voir la vidéo reportage ici : [https://youtu.be/E0Qt3RxzP0s?is=hzrt1WAqdDmXlomh]).
+La délivrance arrive lorsque je rejoins la piste cyclable des Two Tunnels, qui m’emmène vers Bristol. Je traverse le long tunnel d’un mile, qui accueille chaque année une course d’ultra-running ([voir un vidéo reportage ici](https://youtu.be/E0Qt3RxzP0s?is=hzrt1WAqdDmXlomh)).
 
 <div align="center">
 
