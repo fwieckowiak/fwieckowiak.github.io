@@ -16,7 +16,7 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 # mercredi 21 octobre 16:59
 
-Finalement, je serai resté trois jours chez Shrestha à Bristol. Ça a été l’occasion de bien me reposer, de laver et de faire sécher tous mes vêtements, de beaucoup dormir et de repartir sur de bonnes bases. On a célébré Durga Puja, une fête traditionnelle du West Bengal, er l’anniversaire de Shrestha ! J’ai aussi revu un certain ingénieur de chez Dyson avec qui je m’entends très bien …
+Finalement, je serai resté trois jours chez Shrestha à Bristol. Ça a été l’occasion de bien me reposer, de laver et de faire sécher tous mes vêtements, de beaucoup dormir et de repartir sur de bonnes bases. On a célébré Durga Puja, une fête traditionnelle du West Bengal, et l’anniversaire de Shrestha ! J’ai aussi revu un certain ingénieur de chez Dyson avec qui je m’entends très bien …
 
 <div align="center">
   <img class="zoomable" src="england/IMG_1655.jpeg" width="60%">
