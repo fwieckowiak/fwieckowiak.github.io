@@ -36,8 +36,13 @@ Me voilà donc de retour sur la route, avec quelques changements de plan. Une te
 <img class=“zoomable” src=“england/IMG_1701.jpeg” width=“60%”>
 
 </div>
-En attendant, les 95 km et 900 de D + sont passés très vite aujourd’hui, je suis arrivé au camping à 14 h 30 ! Il est presque vide, la salle commune est tres grande et a une cuisine tout équipée.
+En attendant, les 95 km et 900 de D + sont passés très vite aujourd’hui, je suis arrivé au camping à 14 h 30 ! Forcément avec un vent à 50km/h dans le dos ca avance mieux! Le camping est presque vide, la salle commune est tres grande et a une cuisine tout équipée et un super distributeur d'eau bouillante pour ma soupe miso !
 
+<div align="center">
+
+<img class=“zoomable” src=“england/IMG_1702.jpeg” width=“60%”>
+
+</div>
 <div align="center">
 
 <img class=“zoomable” src=“england/40CE0AF3-8887-4F66-875F-8C63AE5B9030.jpeg” width=“60%”>
