@@ -19,34 +19,27 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 Finalement, je serai resté trois jours chez Shrestha à Bristol. Ça a été l’occasion de bien me reposer, de laver et de faire sécher tous mes vêtements, de beaucoup dormir et de repartir sur de bonnes bases. On a célébré Durga Puja, une fête traditionnelle du West Bengal, er l’anniversaire de Shrestha ! J’ai aussi revu un certain ingénieur de chez Dyson avec qui je m’entends très bien …
 
 <div align="center">
-
-<img class=“zoomable” src=“england/IMG_1655.jpeg” width=“60%”>
-
+  <img class="zoomable" src="england/IMG_1655.jpeg" width="60%">
 </div>
 
 <div align="center">
-
-<img class=“zoomable” src=“england/IMG_1668.jpeg” width=“60%”>
-
+  <img class="zoomable" src="england/IMG_1668.jpeg" width="60%">
 </div>
 
 Me voilà donc de retour sur la route, avec quelques changements de plan. Une tempête approche des côtes anglaises, avec un pic annoncé vendredi matin. Mon ferry pour l’île de Wight prévu pile ce jour là risque très fort d’être annulé. Je vais finalement rejoindre Portsmouth en deux jours, puis rester à l’abri à l’hôtel le temps que la tempête passe. Je verrai samedi matin les conditions pour traverser jusqu’à l’île de Wight.
+
 <div align="center">
-
-<img class=“zoomable” src=“england/IMG_1701.jpeg” width=“60%”>
-
+  <img class="zoomable" src="england/IMG_1701.jpeg" width="60%">
 </div>
+
 En attendant, les 95 km et 900 de D + sont passés très vite aujourd’hui, je suis arrivé au camping à 14 h 30 ! Forcément avec un vent à 50km/h dans le dos ca avance mieux! Le camping est presque vide, la salle commune est tres grande et a une cuisine tout équipée et un super distributeur d'eau bouillante pour ma soupe miso !
 
 <div align="center">
-
-<img class=“zoomable” src=“england/IMG_1702.jpeg” width=“60%”>
-
+  <img class="zoomable" src="england/IMG_1702.jpeg" width="60%">
 </div>
+
 <div align="center">
-
-<img class=“zoomable” src=“england/40CE0AF3-8887-4F66-875F-8C63AE5B9030.jpeg” width=“60%”>
-
+  <img class="zoomable" src="england/40CE0AF3-8887-4F66-875F-8C63AE5B9030.jpeg" width="60%">
 </div>
 
 # samedi 17 octobre 21:34
