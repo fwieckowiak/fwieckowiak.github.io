@@ -13,6 +13,47 @@ share: false
 My journal is available in English. It hasn't been fully proofread, but the automatic translation should be pretty good!
 
 [**READ THE JOURNAL IN ENGLISH**](https://fwieckowiak-github-io.translate.goog/personal/2026-uk-trip?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
+# jeudi 22 octobre 18:28
+
+
+
+
+
+La nuit a été un peu pluvieuse, et j’ai improvisé un tarp avec ma couverture de survie pour éviter de me faire arroser dans la tente qui perd en étanchéité!
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1705.jpeg" width="60%">
+</div>
+
+J’ai donc pris mon temps ce matin, en attendant le soleil pour faire sécher un peu la tente et mes affaires. Petit-déjeuner tranquille dans la grande salle commune, que j’avais entièrement pour moi tout seul à nouveau
+
+Départ tardif pour les 85 km prévus aujourd’hui. Le début est assez rude, avec beaucoup de cailloux et de boue, avant de devoir traverser la ville au milieu des voitures. Et juste au moment où je parviens enfin à en sortir et à retrouver une ambiance plus forestière… nouvelle crevaison, à l’arrière (qui avait tenu le tubeless jusque là). Passage en chambre pour ne plus être embêté, je déteste les ronces anglaises
+
+J’en profite aussi pour faire un gros ravitaillement dans un immense Tesco ce qui me fais encore plus perdre du temps. À midi, je n’avais parcouru que 20 km, alors que j’espérais en avoir déjà fait 45.
+
+Heureusement, le milieu de journée est bien plus agréable, avec de belles routes de campagne et très peu de circulation. Pause déjeuner au calme, avec au menu bagel sauce tomate au fromage au pepperoni végan, en écoutant le podcast ultra talk du créateur de la race across series
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1708.jpeg" width="60%">
+</div>
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1714.jpeg" width="60%">
+</div>
+L’après-midi, je me rapproche de Portsmouth. Geovelo m’annonce 98% de voie cyclable pour l’heure de trajet pour arriver à l’hôtel, génial !! Sauf que en Angleterre, tous les trottoirs sont considérés comme des voies partagées dont je vous laisse imaginer l’état…
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1716.jpeg" width="60%">
+</div>
+
+Beaucoup de voitures, des itinéraires compliqués, des passages sur les trottoirs, des escaliers… arrivée pénible!
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1715.jpeg" width="60%">
+</div>
+
+Mais ça y est, je suis arrivé à l’hôtel. Et avec les annulations de ferries annoncées pour demain, la décision de rejoindre Portsmouth aujourd’hui etait la bonne. Sinon, je serai coincé à Lymington sans de solution simple pour rejoindre l’île de wight ou Portsmouth pour mon concert dimanche, et aurait du traverser la tempête à vélo ! Le vent et la pluie commence déjà à arriver ce soir, demain visite possible tranquille de la ville et j'aviserai pour voir si je tente l'île de wight samedi et dimanche pour y rejoindre mon ami Sripad !
+
 
 # mercredi 21 octobre 16:59
 
