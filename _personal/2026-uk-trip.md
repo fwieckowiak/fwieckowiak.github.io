@@ -52,7 +52,7 @@ Beaucoup de voitures, des itinéraires compliqués, des passages sur les trottoi
   <img class="zoomable" src="england/IMG_1715.jpeg" width="60%">
 </div>
 
-Mais ça y est, je suis arrivé à l’hôtel. Et avec les annulations de ferries annoncées pour demain, la décision de rejoindre Portsmouth aujourd’hui etait la bonne. Sinon, je serai coincé à Lymington sans de solution simple pour rejoindre l’île de wight ou Portsmouth pour mon concert dimanche, et aurait du traverser la tempête à vélo ! Le vent et la pluie commence déjà à arriver ce soir, demain visite possible tranquille de la ville et j'aviserai pour voir si je tente l'île de wight samedi et dimanche pour y rejoindre mon ami Sripad !
+Mais ça y est, je suis arrivé à l’hôtel. Et avec les annulations de ferries annoncées pour demain, la décision de rejoindre Portsmouth aujourd’hui etait la bonne. Sinon, je serai coincé à Lymington sans de solution simple pour rejoindre l’île de wight ou Portsmouth pour mon concert dimanche, et aurait du traverser la tempête à vélo ! Le vent et la pluie commencent déjà à arriver ce soir, demain visite possible tranquille de la ville et j'aviserai pour voir si je tente l'île de wight samedi et dimanche pour y rejoindre mon ami Sripad !
 
 
 # mercredi 21 octobre 16:59
