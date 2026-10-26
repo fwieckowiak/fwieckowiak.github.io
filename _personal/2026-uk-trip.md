@@ -20,18 +20,59 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 J’aurai finalement passé quelques jours à Portsmouth pour éviter le gros de la tempête. j’ai réussi à prendre le ferry samedi matin pour rejoindre l’île de Wight et retrouver mon ami Sripad! J’ai quand même été trempé le temps de faire les 15 km qui sépare le port de sa maison avec vue sur la mer !
 
+
+
+
+
+<div align="center">
+  <img class="zoomable" src="england/B6FCEB25-E767-4105-9BC1-63C2D1163BBF.jpeg" width="60%">
+</div>
+
+<div align="center">
+  <img class="zoomable" src="england/2CD12D2F-5037-4D3F-A743-194D2836945B.jpeg" width="60%">
+</div>
+
+
 Dimanche matin, retour vers Portsmouth sous le soleil, mais avec beaucoup de vent. J’ai juste eu le temps de manger un burger trop cher sur le port avant de reprendre le ferry. retour à l’hôtel pour la soirée, et le concert de Sea Power, qui était un peu le prétexte initial du voyage!
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1746.jpeg" width="60%">
+</div>
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1750.jpeg" width="60%">
+</div>
 
 Ce lundi marin, grosse pluie jusqu’à midi. Je profite donc du late check-out de l’hôtel, je mange un morceau, puis je reprends la route direction Brighton à midi, avec environ 70 km au programme et tout plat
 
+
+
 Mais comme toujours, les national cycle way anglaises sont très décevantes, je commence par une pseudo-piste cyclable le long d’une route nationale, qui est comme souvent en Angleterre de très mauvaise qualité. Je décide donc de faire un détour pour éviter cette portion, mais un train de fret arrêté sur les voies bloque tous les passages à niveau sur près de 3 km.
+
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1751.jpeg" width="60%">
+</div>
+
+
 
 Je finis par retrouver la campagne, mais mon GPX dégotté en ligne m’envoie ensuite sur une route privée qui traverse en réalité une immense ferme interdite à la circulation. J’improvise un passage par les champs et la boue. Au passage, je perds même mes aérobananes!!
 
 Quand j’arrive enfin sur la côte, le vent du sud-ouest se met à souffler dans le bon sens et me pousse bien sûr les longues digues partagées, mais heureusement avec très peu de piéton vu la météo et la période. Le soleil se couche vers 17 h et il fait nuit à 18h
 
-J’arrive finalement à destination, dans un parc boisé sur les hauteurs de la ville pour un nouveau bivouac. Demain, réveil matinal pour plier bagage avant l’arrivée des promeneurs comme toujours
+<div align="center">
+  <img class="zoomable" src="england/IMG_1755.jpeg" width="60%">
+</div>
 
+<div align="center">
+  <img class="zoomable" src="england/IMG_1752.jpeg" width="60%">
+</div>
+
+
+J’arrive finalement à destination, dans un parc boisé sur les hauteurs de la ville pour un nouveau bivouac. Demain, réveil matinal pour plier bagage avant l’arrivée des promeneurs comme toujours
+<div align="center">
+  <img class="zoomable" src="england/IMG_1756.jpeg" width="60%">
+</div>
 
 
 # jeudi 22 octobre 18:28
