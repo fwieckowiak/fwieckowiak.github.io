@@ -43,7 +43,7 @@ Dimanche matin, retour vers Portsmouth sous le soleil, mais avec beaucoup de ven
   <img class="zoomable" src="england/IMG_1750.jpeg" width="60%">
 </div>
 
-Ce lundi marin, grosse pluie jusqu’à midi. Je profite donc du late check-out de l’hôtel, je mange un morceau, puis je reprends la route direction Brighton à midi, avec environ 70 km au programme et tout plat
+Ce lundi matin, grosse pluie jusqu’à midi. Je profite donc du late check-out de l’hôtel, je mange un morceau, puis je reprends la route direction Brighton à midi, avec environ 70 km au programme et tout plat
 
 
 
@@ -58,7 +58,7 @@ Mais comme toujours, les national cycle way anglaises sont très décevantes, je
 
 Je finis par retrouver la campagne, mais mon GPX dégotté en ligne m’envoie ensuite sur une route privée qui traverse en réalité une immense ferme interdite à la circulation. J’improvise un passage par les champs et la boue. Au passage, je perds même mes aérobananes!!
 
-Quand j’arrive enfin sur la côte, le vent du sud-ouest se met à souffler dans le bon sens et me pousse bien sûr les longues digues partagées, mais heureusement avec très peu de piéton vu la météo et la période. Le soleil se couche vers 17 h et il fait nuit à 18h
+Quand j’arrive enfin sur la côte, le vent du sud-ouest me pousse bien sur les longues digues partagées, mais heureusement avec très peu de piétons vu la météo et la période. Le soleil se couche vers 17 h et il fait nuit à 18h
 
 <div align="center">
   <img class="zoomable" src="england/IMG_1755.jpeg" width="60%">
