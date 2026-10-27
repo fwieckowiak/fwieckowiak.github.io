@@ -26,13 +26,24 @@ Ajoutez à ça le bruit du vent et le réveil à 6 h pour démonter la tente ava
 
 Je redescends ensuite de ma colline, avec l’idée de me préparer un petit-déjeuner au réchaud sous un abri de plage. Malheureusement, les quelques abris que je trouve ne sont pas vraiment adaptés : pas de banc, sol trempé et vent horizontal. Je finis donc dans un café, d’autant que la pluie annoncée jusqu’à 9 h se prolonge finalement jusqu’à 10 h.
 
+<div align="center">
+  <img class="zoomable" src="england/IMG_1761.jpeg" width="60%">
+</div>
+
 Pendant que je prends mon café, je trouve un camping pour ce soir. J’avais initialement prévu de bivouaquer à nouveau, mais après la nuit dernière et sans avoir repéré de spot convaincant, je préfère assurer le coup. Le camping est à 10 km de ma trace, coûte seulement 10 £ et semble ok. Il est officiellement fermé pour la saison, mais la dame que j’ai au téléphone accepte gentiment quand même.
 
 Je reprends la route vers midi, le long de la côte. Le vent est dans le dos et le parcours est très agréable. À midi, je profite d’un rayon de soleil dans un petit parc pour sortir le réchaud et préparer mes nouilles instantanées. Petit passage à la supérette pour compléter le repas avec quelques gâteaux et un soda.
 
-Je quitte ensuite la côte pour un détour dans les terres.  Vers 14h, grosse baisse d’énergie.
 
-La nuit écourtée et mon repas léger, et une alimentation irrégulière sur le vélo ont dû tous jouer. Je m’arrête donc sur un petit pont en pierre au-dessus d’un ruisseau, m’allonge pour une sieste de quinze minutes et fais le plein de sucre : soda, plusieurs barres et cacahuètes.
+Je quitte ensuite la côte pour un détour dans les terres.  Vers 14h, grosse baisse d’énergie. La nuit écourtée, mon repas léger, et une alimentation irrégulière sur le vélo ont dû tous jouer. Je m’arrête donc sur un petit pont en pierre au-dessus d’un ruisseau, m’allonge pour une sieste de quinze minutes et fais le plein de sucre : soda, plusieurs barres et cacahuètes.
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1765.jpeg" width="60%">
+</div>
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1766.jpeg" width="60%">
+</div>
 
 J’en profite pour modifier légèrement ma trace afin de réduire quelques kilomètres. Dans une petite ville, nouvel arrêt ravitaillement : il me reste encore une cinquantaine de kilomètres et je veux éviter de retomber en panne d’énergie. Je trouve une boutique de cigarettes électroniques qui vend aussi des boissons énergisantes et me permet de remplir mes gourdes, et quelques kilomètre plus loin une autre supérette plus loin où je prends banane et un autre soda.
 
@@ -45,6 +56,16 @@ Heureusement que j’ai mes éclairages. La première moitié se fait sur une ro
 J’arrive enfin au camping dans le noir complet. Dur dur d’ouvrir la grande barrière métallique retenue par une chaîne. Derrière, un immense champ d’herbe avec quelques caravanes. Je suis le seul campeur sous tente ce soir. Je suis les traces de pneus pour trouver l’accueil et les sanitaires, puis installe ma tente à proximité.
 
 Alors que je déballe mes affaires à la lumière de ma frontale, une voix derrière moi me fait sursauter. C’est un caravanier polonais qui m’a vu arriver et vient me saluer!
+
+<div align="center">
+  <img class="zoomable" src="england/B9C57D8E-539E-4C15-B3C4-041E38CDEC22.jpeg" width="60%">
+</div>
+
+
+<div align="center">
+  <img class="zoomable" src="england/AD145E1D-DC27-41AF-9B69-3BA1DD795A65.jpeg" width="60%">
+</div>
+
 
 J’ai du mal à me motiver pour aller me laver et préparer à manger. J’en profite au moins pour faire sécher à l’intérieur mes vêtements encore humides. Puis je sors finalement le réchaud : après 96 km et 840 m de D+, la montre annonce environ 4 000 kcal dépensées!
 
