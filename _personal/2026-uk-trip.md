@@ -14,7 +14,43 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 [**READ THE JOURNAL IN ENGLISH**](https://fwieckowiak-github-io.translate.goog/personal/2026-uk-trip?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
 
+# mardi 27 octobre 20:32
 
+mardi 27 octobre
+
+Nuit moyenne dans la forêt. Le vent fait beaucoup de bruit dans les feuilles et finit par me réveiller régulièrement.
+
+J’ai aussi un peu raté mon installation : en général, c’est mieux d’arriver avant le coucher du soleil, de repérer les lieux sans rien déballer, puis d’installer la tente une fois la nuit tombée. Sauf que je suis arrivé alors qu’il faisait déjà noir. Je pensais être suffisamment éloigné du chemin, mais je n’étais finalement qu’à une quinzaine de mètres. Deux promeneurs m’ont même éclairé avec leur lampe torche pendant la soirée. Rien de grave, mais niveau discrétion, 0/20 !
+
+Ajoutez à ça le bruit du vent et le réveil à 6 h pour démonter la tente avant le lever du soleil : la nuit n’aura pas été de tout repos. Au moins, le spot était superbe, avec une très belle vue
+
+Je redescends ensuite de ma colline, avec l’idée de me préparer un petit-déjeuner au réchaud sous un abri de plage. Malheureusement, les quelques abris que je trouve ne sont pas vraiment adaptés : pas de banc, sol trempé et vent horizontal. Je finis donc dans un café, d’autant que la pluie annoncée jusqu’à 9 h se prolonge finalement jusqu’à 10 h.
+
+Pendant que je prends mon café, je trouve un camping pour ce soir. J’avais initialement prévu de bivouaquer à nouveau, mais après la nuit dernière et sans avoir repéré de spot convaincant, je préfère assurer le coup. Le camping est à 10 km de ma trace, coûte seulement 10 £ et semble ok. Il est officiellement fermé pour la saison, mais la dame que j’ai au téléphone accepte gentiment quand même.
+
+Je reprends la route vers midi, le long de la côte. Le vent est dans le dos et le parcours est très agréable. À midi, je profite d’un rayon de soleil dans un petit parc pour sortir le réchaud et préparer mes nouilles instantanées. Petit passage à la supérette pour compléter le repas avec quelques gâteaux et un soda.
+
+Je quitte ensuite la côte pour un détour dans les terres.  Vers 14h, grosse baisse d’énergie.
+
+La nuit écourtée et mon repas léger, et une alimentation irrégulière sur le vélo ont dû tous jouer. Je m’arrête donc sur un petit pont en pierre au-dessus d’un ruisseau, m’allonge pour une sieste de quinze minutes et fais le plein de sucre : soda, plusieurs barres et cacahuètes.
+
+J’en profite pour modifier légèrement ma trace afin de réduire quelques kilomètres. Dans une petite ville, nouvel arrêt ravitaillement : il me reste encore une cinquantaine de kilomètres et je veux éviter de retomber en panne d’énergie. Je trouve une boutique de cigarettes électroniques qui vend aussi des boissons énergisantes et me permet de remplir mes gourdes, et quelques kilomètre plus loin une autre supérette plus loin où je prends banane et un autre soda.
+
+Après cette nouvelle dose de sucre, mon GPS m’annonce une route rout droit à travers les dunes avant de retrouver la côte. Je ne sais pas si c’est le placebo ou le regain d’énergie, mais je me mets à appuyer à fond sur les pédales. Je vole sur la route, aux 175 bpm de tarte à la myrtillle de le Wanski en haut parleur
+
+Je retrouve la côte et reprends la direction d’Hastings. Mais le soleil se couche déjà vers 17 h. Je sors tout mon attirail pour être bien visible et attaque les dix kilomètres de détour qui me séparent du camping dans les terres, avec 250 m de D+ au programme.
+
+Heureusement que j’ai mes éclairages. La première moitié se fait sur une route très fréquentée et peu agréable à vélo, avec les voitures qui passent à toute vitesse. La seconde traverse une forêt, où mes 150 lumens montrent leurs limites. Je complète avec ma lampe frontale pour avancer plus sereinement. Il faudra que j’investisse dans une meilleure lampe avant pour les prochaines sorties nocturnes….
+
+J’arrive enfin au camping dans le noir complet. Dur dur d’ouvrir la grande barrière métallique retenue par une chaîne. Derrière, un immense champ d’herbe avec quelques caravanes. Je suis le seul campeur sous tente ce soir. Je suis les traces de pneus pour trouver l’accueil et les sanitaires, puis installe ma tente à proximité.
+
+Alors que je déballe mes affaires à la lumière de ma frontale, une voix derrière moi me fait sursauter. C’est un caravanier polonais qui m’a vu arriver et vient me saluer!
+
+J’ai du mal à me motiver pour aller me laver et préparer à manger. J’en profite au moins pour faire sécher à l’intérieur mes vêtements encore humides. Puis je sors finalement le réchaud : après 96 km et 840 m de D+, la montre annonce environ 4 000 kcal dépensées!
+
+Au menu : ma fameuse purée réhydratée aux protéines de soja épicées, accompagnée de sandwiches avec le reste de mon pain et du seitan épicé sous vide acheté à Bristol.
+
+Il me reste à revoir la trace pour demain, histoire de retrouver la côte sans ajouter trop de kilomètres inutiles. Si tout se passe comme prévu, prochaine étape : une nuit à l’hôtel à Douvres avant le ferry jeudi matin !
 
 # lundi 26 octobre 18:56
 
