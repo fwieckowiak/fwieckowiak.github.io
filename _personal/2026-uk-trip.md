@@ -16,7 +16,6 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 # mardi 27 octobre 20:32
 
-mardi 27 octobre
 
 Nuit moyenne dans la forêt. Le vent fait beaucoup de bruit dans les feuilles et finit par me réveiller régulièrement.
 
