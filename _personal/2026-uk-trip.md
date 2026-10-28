@@ -14,6 +14,47 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 [**READ THE JOURNAL IN ENGLISH**](https://fwieckowiak-github-io.translate.goog/personal/2026-uk-trip?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
 
+# mercredi 28 octobre 21:51
+
+
+
+
+
+Encore une nuit humide au camping. Le champ d’herbe retient bien l’humidité, mais c’est surtout la dernière nuit sous ma tente. Je la range avec un peu d’émotion : vu son état et à quel point elle arrive en fin de vie, c’est probablement l’une des dernières fois que je l’utilise.
+
+Je recroise mon ami polonais autour d’un petit-déjeuner bien copieux, puis je reprends la route. Je passe un peu de temps à revoir mon itinéraire pour rejoindre ma trace initiale depuis le camping. Je fait faire crochet par une route assez fréquentée sur une quinzaine de kilomètres, avec quelques côtes si pentues que je pousse le vélo et des routes fermées sur le trajet. La première partie de la matinée n’es pas très agréable.
+
+Je retrouve ensuite des routes le long de la côte, puis dans les terres, très plates. Le vent du sud-ouest me pousse encore bien et me permet d’avancer sans trop forcer. Je passe à côté d’un champ de tir de l’armée pas très rassurant.
+
+Je m’installe ensuite au bord d’une route de campagne, assis sur un bloc de ciment, pour cuisiner ma dernière portion de ma fameuse purée aux protéines de soja.
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1793.jpeg" width="60%">
+</div>
+
+Encore un gros coup de fatigue. J’ai encore les jambes fatiguée de la veille. Je reprends doucement, en me laissant porter par le vent et sans trop forcer sur les pédales. Je sais qu’un dernier obstacle m’attend avant le port de Douvres : les White Cliffs, qu’il va falloir gravir avant de redescendre vers la ville.
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1784.jpeg" width="60%">
+</div>
+
+Finalement, la piste cyclable des falaises est assez large et séparée des voitures. Je peux prendre mon temps et arrive jusqu’en haut sans même avoir eu besoin de pousser le vélo. Très content d’avoir passé cette dernière montée
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1785.jpeg" width="60%">
+</div>
+
+Je retrouve ensuite exactement la route que j’avais empruntée trois semaines plus tôt à mon arrivée. Cette fois, je la parcours dans l’autre sens, et je comprends mieux pourquoi j’avais tant souffert le premier jour entre le vent contraire et les montées
+
+Je repasse à l’endroit où j’avais perdu une sacoche. Je suis bien content de l’avoir retrouvée à ce. Moment, car je ne sais pas comment j’aurais fait sans mes sur chaussures et mes gants de ski pendant les journées très pluvieuses qui ont suivi.
+
+Je fonce ensuite dans la descente vers la ville et trouve facilement mon hôtel, juste à côté du port des ferries. C’est un Premier Inn, qui coûte à peine plus cher que les ibis où j’ai dormi, mais qui est nettement mieux équipé
+
+Je refais mon stock de dosettes de sucre et de café instantané pour le prochain voyage (challenge). J’ai repéré un kebab et un grand magasin à proximité pour faire un bon ravitaillement demain matin.
+
+Le ferry est prévu à 5 h 45. Il faudra donc arriver au port environ une heure à une heure et demie avant le départ. Une fois à Dunkerque, je retrouverai mon ami François pour faire ensemble les quelque 120 derniers kilomètres jusqu’à Lille !
+
+
 # mardi 27 octobre 20:32
 
 
