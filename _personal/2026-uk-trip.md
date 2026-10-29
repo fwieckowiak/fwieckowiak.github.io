@@ -29,7 +29,7 @@ Je retrouve ensuite des routes le long de la côte, puis dans les terres, très 
 Je m’installe ensuite au bord d’une route de campagne, assis sur un bloc de ciment, pour cuisiner ma dernière portion de ma fameuse purée aux protéines de soja.
 
 <div align="center">
-  <img class="zoomable" src="england/IMG_1793.jpeg" width="60%">
+  <img class="zoomable" src="england/IMG_1793.png" width="60%">
 </div>
 
 Encore un gros coup de fatigue. J’ai encore les jambes fatiguée de la veille. Je reprends doucement, en me laissant porter par le vent et sans trop forcer sur les pédales. Je sais qu’un dernier obstacle m’attend avant le port de Douvres : les White Cliffs, qu’il va falloir gravir avant de redescendre vers la ville.
