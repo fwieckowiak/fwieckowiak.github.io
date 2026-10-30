@@ -23,7 +23,7 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 Réveil très tôt à 3 h du matin, pour prendre le ferry de 5 h 30. Le contrôle passe rapidement, mais il n’y a pas vraiment de zone d’attente prévue avant l’embarquement. Je finis assis par terre à faire un sudoku en attendant l’ouverture
 
 <div align="center">
-  <img class="zoomable" src="england/IMG_1801.png" width="60%">
+  <img class="zoomable" src="england/IMG_1801.jpeg" width="60%">
 </div>
 
 Une fois à bord, grosse fatigue. J’essaie de dormir un peu, mais quelqu’un décide de faire une partie d’air hockey dans la salle d’arcade juste à côté, ce qui me réveille en sursaut ! Je réussis à somnoler une petite heure.
@@ -46,7 +46,7 @@ Aucun vent, grand soleil, et je reste tranquillement dans la roue de François. 
 
 
 
-On profite du coucher de soleil avant d’arriver à Lille. Dernier passage par les pavés du Vieux-Lille, avec slaloms entre les piétons, et pn rejoint la gare dix minutes avant le train de François.
+On profite du coucher de soleil avant d’arriver à Lille. Dernier passage par les pavés du Vieux-Lille, avec slaloms entre les piétons, et on rejoint la gare dix minutes avant le train de François.
 
 <div align="center">
   <img class="zoomable" src="england/30bb3861-0cb0-435a-9df3-74042c5154fa.jpeg" width="60%">
