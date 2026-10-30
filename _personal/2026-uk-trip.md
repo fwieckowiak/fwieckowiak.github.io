@@ -14,6 +14,56 @@ My journal is available in English. It hasn't been fully proofread, but the auto
 
 [**READ THE JOURNAL IN ENGLISH**](https://fwieckowiak-github-io.translate.goog/personal/2026-uk-trip?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
 
+
+# jeudi 29 octobre 22:03
+
+
+
+
+Réveil très tôt à 3 h du matin, pour prendre le ferry de 5 h 30. Le contrôle passe rapidement, mais il n’y a pas vraiment de zone d’attente prévue avant l’embarquement. Je finis assis par terre à faire un sudoku en attendant l’ouverture
+
+<div align="center">
+  <img class="zoomable" src="england/IMG_1801.png" width="60%">
+</div>
+
+Une fois à bord, grosse fatigue. J’essaie de dormir un peu, mais quelqu’un décide de faire une partie d’air hockey dans la salle d’arcade juste à côté, ce qui me réveille en sursaut ! Je réussis à somnoler une petite heure.
+
+J’arrive au port de Loon-Plage, près de Dunkerque, et parcours rapidement la quinzaine de kilomètres qui me sépare de la gare pour retrouver François. On prend ensuite l’EuroVelo qui longe la côte jusqu’à Bray-Dunes, avant de tourner dans les terres en direction de Lille, en passant par Ypres!
+
+<div align="center">
+  <img class="zoomable" src="england/21511b2d-c827-4b77-96f9-26949d94866f.jpeg" width="60%">
+</div>
+
+<div align="center">
+  <img class="zoomable" src="england/41805e40-42cc-4d6a-9191-f7921fe6a010.jpeg" width="60%">
+</div>
+
+Aucun vent, grand soleil, et je reste tranquillement dans la roue de François. On fait notre pique-nique habituel et tout roule jusqu’à la frontière française. En début d’après-midi, je prends quand même un nouveau gros coup de barre. Le réveil à 3 h du matin n’aide pas !
+
+<div align="center">
+  <img class="zoomable" src="england/eae00b85-25a8-4b87-9e3f-2941e11bba22.jpeg" width="60%">
+</div>
+
+
+
+On profite du coucher de soleil avant d’arriver à Lille. Dernier passage par les pavés du Vieux-Lille, avec slaloms entre les piétons, et pn rejoint la gare dix minutes avant le train de François.
+
+<div align="center">
+  <img class="zoomable" src="england/30bb3861-0cb0-435a-9df3-74042c5154fa.jpeg" width="60%">
+</div>
+
+Bilan : 113km, la plus grosse journée en distance de tout le voyage, mais heureusement tout plat! Je rentre enfin à la maison, où je suis accueilli en fanfare. À peine le temps de prendre une douche qu’on part boire un verre dans le centre.
+
+<div align="center">
+  <img class="zoomable" src="england/c223603d-14d4-440b-b58a-3e62d9c391eb.jpeg" width="60%">
+</div>
+
+Ce qui me frappe le plus en rentrant, c’est la luminosité de la maison et la saturation des couleurs. Tout paraît lumineux et coloré après trois semaines passées dehors dans la forêt, sous la pluie et la pénombre.
+
+Et surtout, retrouver un vrai lit. Bonne nuit !
+
+
+
 # mercredi 28 octobre 21:51
 
 
