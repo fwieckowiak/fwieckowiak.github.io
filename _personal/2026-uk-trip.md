@@ -755,7 +755,7 @@ Le voyage aura duré 18 jours, du lundi 12 au jeudi 29 octobre, soit 17 nuits su
 
 - **5 nuits en camping**
 - **4 nuits à l’hôtel**
-- **4 nuits chez des amis**
+- **6 nuits chez des amis**
 - **2 nuits en bivouac**
 
 
