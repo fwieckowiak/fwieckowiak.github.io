@@ -14,8 +14,10 @@ My research focuses on improving OCR systems for mathematical expression recogni
 
 On this website, you will find information about my research, publications, past and side projects, as well as anything that I find interesting. I may also use this website to show my creative works such as music, crochet, or general DIYs. Finally, I may find the time to write and post photos of my bikepacking adventures !
 
-Research
-========
+<div class="two-columns">
+<div class="column">
+
+## Research
 
 My main research projects and resources:
 
@@ -30,20 +32,26 @@ Large-scale datasets of mathematical expressions extracted from patent documents
 
 <a href="/portfolio/PatentME" class="quick-link">PatentME Datasets</a>
 
+</div>
+
+<div class="column">
+
+## Personal
+
+**Bikepacking adventures**  
+Photos and stories from my cycling trips ! NEW : you can read the daily journal of my 3 week UK gravel trip [here!](https://fwieckowiak.github.io/personal/2026-uk-trip)
+
+<a href="https://fwieckowiak.github.io/personal/" class="quick-link">🚲 Bikepacking</a>
+
 
 **Curriculum Vitae**  
 A summary of my academic background, research experience, and publications.
 
 <a href="https://fwieckowiak.github.io/cv/" class="quick-link">CV</a>
 
+</div>
+</div>
 
-Personal
-========
-
-**Bikepacking adventures**  
-Photos and stories from my cycling trips !
-
-<a href="https://fwieckowiak.github.io/personal/" class="quick-link">🚲 Bikepacking</a>
 
 
 <style>
@@ -61,5 +69,17 @@ Photos and stories from my cycling trips !
 .quick-link:hover {
   background-color: #2c7be5;
   color: white;
+}
+
+.two-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 40px;
+}
+
+@media (max-width: 700px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
