@@ -14,7 +14,8 @@ My research focuses on improving OCR systems for mathematical expression recogni
 
 On this website, you will find information about my research, publications, past and side projects, as well as anything that I find interesting. I may also use this website to show my creative works such as music, crochet, or general DIYs. Finally, I may find the time to write and post photos of my bikepacking adventures !
 
-NEW : you can read the daily journal of my 3 week UK gravel trip [here!](https://fwieckowiak.github.io/personal/2026-uk-trip)
+NEW : you can read the daily journal of my 3 week UK gravel trip !
+<a href="https://fwieckowiak.github.io/personal/2026-uk-trip" class="quick-link">🚲 UK-Trip !</a>
 
 
 Research
